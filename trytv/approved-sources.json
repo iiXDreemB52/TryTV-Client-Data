@@ -1,1 +1,1835 @@
-{"schema":1,"revision":"9b542f39ad6ba824cbb2bf12748156f74ce0f48d5d902e8b07939b4c770b9e50","publishedAt":"2026-10-30T19:54:32.225200+00:00","sources":[{"section":"anime","contentType":"anime","name":"Anime4up","hiddenWorks":[],"enabled":true,"adapter":"anime4up-episode-datawatch-v1","mediaType":"anime","classificationMode":"per_work","url":"https://4b.cqi8zqa.shop/","review":{"totalWorks":2342,"passed":true,"checkedAt":"2026-10-26T19:36:02.629187+00:00","viewerReady":true,"sourcePages":118},"function":"collect","hiddenServers":["4shared.com","dailymotion","mp4upload","ok video","playmogo.com","voe"],"approvedServers":["uqload","share4max.com"],"autoHiddenServers":[],"displayUrl":"https://4b.cqi8zqa.shop/%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D8%A7%D9%86%D9%85%D9%8A/","mediaTypes":["anime"],"contentTypes":["anime"]},{"section":"anime","contentType":"mixed","name":"أنمي زد - مسلسلات كرتون","hiddenWorks":[],"enabled":true,"adapter":"verified-publisher-work-route-maps","mediaType":"anime","classificationMode":"auto_country","url":"https://animezid.org/category.php?cat=cartoon","review":{"totalWorks":60,"passed":true,"checkedAt":"2026-10-21T00:43:53.814751+00:00","reviewedAt":"2026-10-21T00:43:53.814751+00:00","viewerReady":false},"isPrimary":false,"function":"collect","hiddenServers":["dailymotion","lulustream · 720p · cf8db03","mixdrop · 720p · dc979ac","playmate","turboviplay"],"approvedServers":["uqload","streamruby","doodstream · 720p · 8a44ffd"],"autoHiddenServers":[],"displayUrl":"https://animezid.org/category.php?cat=cartoon","loadingScreenEnabled":true},{"section":"movies","contentType":"mixed","name":"أنمي زد - أفلام ديزني بالفصحى","hiddenWorks":[],"enabled":true,"adapter":"verified-publisher-work-route-maps","mediaType":"movies","classificationMode":"auto_country","url":"https://animezid.org/category.php?cat=disney-arabic","review":{"totalWorks":29,"passed":true,"checkedAt":"2026-10-21T00:43:53.814751+00:00","reviewedAt":"2026-10-21T00:43:53.814751+00:00","viewerReady":false},"isPrimary":false,"function":"collect","hiddenServers":["dailymotion","lulustream · 720p · cf8db03","mixdrop · 720p · dc979ac","playmate","turboviplay"],"approvedServers":["uqload","streamruby","doodstream · 720p · 8a44ffd"],"autoHiddenServers":[],"displayUrl":"https://animezid.org/category.php?cat=disney-arabic","loadingScreenEnabled":true},{"section":"movies","contentType":"mixed","name":"أنمي زد - أفلام ديزني بالمصري","hiddenWorks":[],"enabled":true,"adapter":"verified-publisher-work-route-maps","mediaType":"movies","classificationMode":"auto_country","url":"https://animezid.org/category.php?cat=disney-masr","review":{"totalWorks":27,"passed":true,"checkedAt":"2026-10-21T00:43:53.814751+00:00","reviewedAt":"2026-10-21T00:43:53.814751+00:00","viewerReady":false},"isPrimary":false,"function":"collect","hiddenServers":["dailymotion","lulustream · 720p · cf8db03","mixdrop · 720p · dc979ac","playmate","turboviplay"],"approvedServers":["uqload","streamruby","doodstream · 720p · 8a44ffd"],"autoHiddenServers":[],"displayUrl":"https://animezid.org/category.php?cat=disney-masr","loadingScreenEnabled":true},{"section":"series","contentType":"mixed","name":"أنمي زد - مسلسلات ديزني","hiddenWorks":[],"enabled":true,"adapter":"verified-publisher-work-route-maps","mediaType":"series","classificationMode":"auto_country","url":"https://animezid.org/category.php?cat=disney-series","review":{"totalWorks":23,"passed":true,"checkedAt":"2026-10-21T00:43:53.814751+00:00","reviewedAt":"2026-10-21T00:43:53.814751+00:00","viewerReady":false},"isPrimary":false,"function":"collect","hiddenServers":["dailymotion","lulustream · 720p · cf8db03","mixdrop · 720p · dc979ac","playmate","turboviplay"],"approvedServers":["uqload","streamruby","doodstream · 720p · 8a44ffd"],"autoHiddenServers":[],"displayUrl":"https://animezid.org/category.php?cat=disney-series","loadingScreenEnabled":true},{"section":"movies","contentType":"mixed","name":"أنمي زد - أفلام أنيميشن مدبلجة","hiddenWorks":[],"enabled":true,"adapter":"verified-publisher-work-route-maps","mediaType":"movies","classificationMode":"auto_country","url":"https://animezid.org/category.php?cat=dubbed-animation","review":{"totalWorks":695,"passed":true,"checkedAt":"2026-10-21T00:43:53.814751+00:00","reviewedAt":"2026-10-21T00:43:53.814751+00:00","viewerReady":false},"isPrimary":false,"function":"collect","hiddenServers":["dailymotion","lulustream · 720p · cf8db03","mixdrop · 720p · dc979ac","playmate","turboviplay"],"approvedServers":["uqload","streamruby","doodstream · 720p · 8a44ffd"],"autoHiddenServers":[],"displayUrl":"https://animezid.org/category.php?cat=dubbed-animation","loadingScreenEnabled":true},{"section":"anime","contentType":"mixed","name":"أنمي زد - المدبلج","hiddenWorks":[],"enabled":true,"adapter":"verified-publisher-work-route-maps","mediaType":"anime","classificationMode":"auto_country","url":"https://animezid.org/category.php?cat=dubbed-anime","review":{"totalWorks":60,"passed":true,"checkedAt":"2026-10-21T00:43:53.814751+00:00","reviewedAt":"2026-10-21T00:43:53.814751+00:00","viewerReady":false},"isPrimary":false,"function":"collect","hiddenServers":["dailymotion"],"approvedServers":["uqload","streamruby","doodstream · 720p · 8a44ffd"],"autoHiddenServers":[],"displayUrl":"https://animezid.org/category.php?cat=dubbed-anime","loadingScreenEnabled":false,"dubbed":true},{"section":"anime","contentType":"mixed","name":"أنمي زد - أعمال سبيستون","hiddenWorks":[],"enabled":true,"adapter":"verified-publisher-work-route-maps","mediaType":"anime","classificationMode":"auto_country","url":"https://animezid.org/category.php?cat=spacetoon","review":{"totalWorks":66,"passed":true,"checkedAt":"2026-10-21T00:43:53.814751+00:00","reviewedAt":"2026-10-21T00:43:53.814751+00:00","viewerReady":false},"isPrimary":false,"function":"collect","hiddenServers":["dailymotion","lulustream · 720p · cf8db03","mixdrop · 720p · dc979ac","playmate","turboviplay"],"approvedServers":["uqload","streamruby","doodstream · 720p · 8a44ffd"],"autoHiddenServers":[],"displayUrl":"https://animezid.org/category.php?cat=spacetoon","loadingScreenEnabled":true},{"section":"mixed","contentType":"mixed","name":"ماي سيما","hiddenWorks":[],"enabled":true,"adapter":"mycima-php-v1","mediaType":"mixed","classificationMode":"per_work","url":"https://e.mycima.news/","review":{"totalWorks":3025,"passed":true,"reviewedAt":"2026-10-29T18:32:32.208029+00:00","viewerReady":false,"sourcePages":539},"requestedFunction":"combined","isPrimary":false,"function":"combined","hiddenServers":["732eg54de642sa","abstream","abysscdn","abyssplayer"],"approvedServers":["71stream","anafast","1vid"],"autoHiddenServers":[],"displayUrl":"https://e.mycima.news/","mediaTypes":["series","movies"]},{"section":"series","contentType":"mixed","name":"Fushaar - فشار","hiddenWorks":[],"enabled":true,"adapter":"fushaar-data-embed-v1","mediaType":"series","classificationMode":"per_work","url":"https://fussshaar.rest/","review":{"totalWorks":1233,"passed":true,"checkedAt":"2026-10-27T03:08:05.154829+00:00","reviewedAt":"2026-10-27T03:08:05.154829+00:00","viewerReady":true},"isPrimary":false,"function":"combined","hiddenServers":["abstream","abyssplayer","dhtpre","dsvplay","mxdrop","rubyvidhub"],"approvedServers":["uqload","vidara","bysesukior"],"autoHiddenServers":[],"displayUrl":"https://fussshaar.rest/","mediaTypes":["series"],"contentTypes":["series_asian","series_foreign","series_arabic"]},{"section":"movies","contentType":"mixed","name":"ايجي ديد - أفلام أنمي مدبلجة","hiddenWorks":[],"enabled":true,"adapter":"verified-publisher-work-route-maps","mediaType":"movies","classificationMode":"auto_country","url":"https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/","review":{"totalWorks":8,"passed":true,"checkedAt":"2026-10-21T00:43:53.814751+00:00","reviewedAt":"2026-10-21T00:43:53.814751+00:00","viewerReady":false},"isPrimary":false,"function":"collect","hiddenServers":["aparat","byse","byse · 1080p (source)","byse · 720p","dailymotion","doodstream","doodstream · 1080p (source)","doodstream · 720p","earnvids","earnvids · 1080p (source)","earnvids · 720p","streamix","streamruby","uptostream","uqload","userload","vidara · 1080p (source)","vidara · 720p","voe","voe · 1080p (source)","voe · 720p","youdbox"],"approvedServers":["vidmoly · 1080p (source)","uqload · 1080p (source)","streamruby · 1080p (source)"],"autoHiddenServers":[],"displayUrl":"https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/","dubbed":true},{"section":"movies","contentType":"mixed","name":"ايجي ديد - أفلام أجنبية مدبلجة","hiddenWorks":[],"enabled":true,"adapter":"verified-publisher-work-route-maps","mediaType":"movies","classificationMode":"auto_country","url":"https://k8w4e.sbs/category/english-movies/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A%D8%A9-%D9%85%D8%AF%D8%A8%D9%84%D8%AC%D8%A9/","review":{"totalWorks":305,"passed":true,"checkedAt":"2026-10-21T00:43:53.814751+00:00","reviewedAt":"2026-10-21T00:43:53.814751+00:00","viewerReady":false},"isPrimary":false,"function":"collect","hiddenServers":["aparat","byse","byse · 1080p (source)","byse · 720p","dailymotion","doodstream","doodstream · 1080p (source)","doodstream · 720p","earnvids","earnvids · 1080p (source)","earnvids · 720p","streamix","streamruby","uptostream","uqload","userload","vidara · 1080p (source)","vidara · 720p","voe","voe · 1080p (source)","voe · 720p","youdbox"],"approvedServers":["vidmoly · 1080p (source)","uqload · 1080p (source)","streamruby · 1080p (source)"],"autoHiddenServers":[],"displayUrl":"https://k8w4e.sbs/category/english-movies/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A%D8%A9-%D9%85%D8%AF%D8%A8%D9%84%D8%AC%D8%A9/","dubbed":true},{"section":"anime","contentType":"mixed","name":"ايجي ديد - أنمي مدبلج","hiddenWorks":["https://k8w4e.sbs/season/%d8%a7%d9%86%d9%85%d9%8a-%d8%a7%d9%84%d9%85%d8%ad%d9%82%d9%82-%d9%83%d9%88%d9%86%d8%a7%d9%86-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-32-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84/","https://k8w4e.sbs/season/detective-conan-ar/","https://k8w4e.sbs/season/dr-stone-s04-ar/"],"enabled":true,"adapter":"verified-publisher-work-route-maps","mediaType":"anime","classificationMode":"auto_country","url":"https://k8w4e.sbs/series-category/anime-series-dubbed/","review":{"totalWorks":65,"passed":true,"checkedAt":"2026-10-21T00:43:53.814751+00:00","reviewedAt":"2026-10-21T00:43:53.814751+00:00","viewerReady":false},"isPrimary":false,"function":"collect","hiddenServers":["aparat","byse","byse · 1080p (source)","byse · 720p","dailymotion","doodstream","doodstream · 1080p (source)","doodstream · 720p","earnvids","earnvids · 1080p (source)","earnvids · 720p","streamix","streamruby","uptostream","uqload","userload","vidara · 1080p (source)","vidara · 720p","voe","voe · 1080p (source)","voe · 720p","youdbox"],"approvedServers":["vidmoly · 1080p (source)","uqload · 1080p (source)","streamruby · 1080p (source)"],"autoHiddenServers":[],"displayUrl":"https://k8w4e.sbs/series-category/anime-series-dubbed/","dubbed":true},{"section":"anime","contentType":"mixed","name":"ايجي ديد - رسوم متحركة مدبلجة","hiddenWorks":[],"enabled":true,"adapter":"verified-publisher-work-route-maps","mediaType":"anime","classificationMode":"auto_country","url":"https://k8w4e.sbs/series-category/cartoon-series-dubbed/","review":{"totalWorks":129,"passed":true,"checkedAt":"2026-10-21T00:43:53.814751+00:00","reviewedAt":"2026-10-21T00:43:53.814751+00:00","viewerReady":false},"isPrimary":false,"function":"collect","hiddenServers":["aparat","byse","byse · 1080p (source)","byse · 720p","dailymotion","doodstream","doodstream · 1080p (source)","doodstream · 720p","earnvids","earnvids · 1080p (source)","earnvids · 720p","streamix","streamruby","uptostream","uqload","userload","vidara · 1080p (source)","vidara · 720p","voe","voe · 1080p (source)","voe · 720p","youdbox"],"approvedServers":["vidmoly · 1080p (source)","uqload · 1080p (source)","streamruby · 1080p (source)"],"autoHiddenServers":[],"displayUrl":"https://k8w4e.sbs/series-category/cartoon-series-dubbed/","dubbed":true},{"section":"anime","contentType":"mixed","name":"ايجي ديد - أنمي صيني","hiddenWorks":[],"enabled":true,"adapter":"verified-publisher-work-route-maps","mediaType":"anime","classificationMode":"auto_country","url":"https://k8w4e.sbs/series-category/chinese-anime/","review":{"totalWorks":46,"passed":true,"checkedAt":"2026-10-29T20:27:04.573648+00:00","viewerReady":false},"isPrimary":false,"function":"collect","hiddenServers":[],"approvedServers":[],"displayUrl":"https://k8w4e.sbs/series-category/chinese-anime/","routing":{"schema":1,"totalWorks":45,"generatedAt":"2026-10-29T20:27:04.573648+00:00"}},{"section":"series","contentType":"mixed","name":"ايجي ديد - مسلسلات أجنبية مدبلجة","hiddenWorks":[],"enabled":true,"adapter":"verified-publisher-work-route-maps","mediaType":"series","classificationMode":"auto_country","url":"https://k8w4e.sbs/series-category/english-series-dubbed/","review":{"totalWorks":61,"passed":true,"checkedAt":"2026-10-21T00:43:53.814751+00:00","reviewedAt":"2026-10-21T00:43:53.814751+00:00","viewerReady":false},"isPrimary":false,"function":"collect","hiddenServers":["aparat","byse","byse · 1080p (source)","byse · 720p","dailymotion","doodstream","doodstream · 1080p (source)","doodstream · 720p","earnvids","earnvids · 1080p (source)","earnvids · 720p","streamix","streamruby","uptostream","uqload","userload","vidara · 1080p (source)","vidara · 720p","voe","voe · 1080p (source)","voe · 720p","youdbox"],"approvedServers":["vidmoly · 1080p (source)","uqload · 1080p (source)","streamruby · 1080p (source)"],"autoHiddenServers":[],"displayUrl":"https://k8w4e.sbs/series-category/english-series-dubbed/","dubbed":true},{"section":"anime","contentType":"mixed","name":"ايجي ديد - أنمي كوري","hiddenWorks":[],"enabled":true,"adapter":"verified-publisher-work-route-maps","mediaType":"anime","classificationMode":"auto_country","url":"https://k8w4e.sbs/series-category/korean-anime/","review":{"totalWorks":3,"passed":true,"checkedAt":"2026-10-29T20:27:04.556622+00:00","viewerReady":false},"isPrimary":false,"function":"collect","hiddenServers":[],"approvedServers":[],"displayUrl":"https://k8w4e.sbs/series-category/korean-anime/","routing":{"schema":1,"totalWorks":3,"generatedAt":"2026-10-29T20:27:04.556622+00:00"}},{"section":"series","contentType":"mixed","name":"ايجي ديد - مسلسلات لاتينية مدبلجة","hiddenWorks":[],"enabled":true,"adapter":"verified-publisher-work-route-maps","mediaType":"series","classificationMode":"auto_country","url":"https://k8w4e.sbs/series-category/latino-series-dubbed/","review":{"totalWorks":2,"passed":true,"checkedAt":"2026-10-21T00:43:53.814751+00:00","reviewedAt":"2026-10-21T00:43:53.814751+00:00","viewerReady":false},"isPrimary":false,"function":"collect","hiddenServers":["aparat","byse","byse · 1080p (source)","byse · 720p","dailymotion","doodstream","doodstream · 1080p (source)","doodstream · 720p","earnvids","earnvids · 1080p (source)","earnvids · 720p","streamix","streamruby","uptostream","uqload","userload","vidara · 1080p (source)","vidara · 720p","voe","voe · 1080p (source)","voe · 720p","youdbox"],"approvedServers":["vidmoly · 1080p (source)","uqload · 1080p (source)","streamruby · 1080p (source)"],"autoHiddenServers":[],"displayUrl":"https://k8w4e.sbs/series-category/latino-series-dubbed/","dubbed":true},{"section":"series","contentType":"mixed","name":"ايجي ديد - مسلسلات تركية مدبلجة","hiddenWorks":[],"enabled":true,"adapter":"verified-publisher-work-route-maps","mediaType":"series","classificationMode":"auto_country","url":"https://k8w4e.sbs/series-category/turkish-series-dubbed/","review":{"totalWorks":101,"passed":true,"checkedAt":"2026-10-21T00:43:53.814751+00:00","reviewedAt":"2026-10-21T00:43:53.814751+00:00","viewerReady":false},"isPrimary":false,"function":"collect","hiddenServers":["aparat","byse","byse · 1080p (source)","byse · 720p","dailymotion","doodstream","doodstream · 1080p (source)","doodstream · 720p","earnvids","earnvids · 1080p (source)","earnvids · 720p","streamix","streamruby","uptostream","uqload","userload","vidara · 1080p (source)","vidara · 720p","voe","voe · 1080p (source)","voe · 720p","youdbox"],"approvedServers":["vidmoly · 1080p (source)","uqload · 1080p (source)","streamruby · 1080p (source)"],"autoHiddenServers":[],"displayUrl":"https://k8w4e.sbs/series-category/turkish-series-dubbed/","dubbed":true},{"section":"comics","contentType":"mixed","name":"Kawaiimanga","hiddenWorks":[],"enabled":true,"adapter":"kawaii-public-catalog-v1","mediaType":"manhwa","classificationMode":"auto_country","url":"https://kawaiimanga.org/browse","review":{"totalWorks":388,"passed":true,"checkedAt":"2026-10-18T03:05:29.822Z","viewerReady":true,"sourcePages":8},"requestedFunction":"collect","isPrimary":false,"function":"collect","hiddenServers":["dailymotion"],"autoHiddenServers":[],"routing":{"schema":1,"totalWorks":388,"generatedAt":"2026-10-18T03:05:25.751780+00:00"}},{"section":"series","contentType":"series_foreign","name":"قرمزي - مسلسلات تركية","logo":"https://krmzi.org/wp-content/uploads/2026/02/cropped-faviconkrmzi-192x192.png","hiddenWorks":[],"enabled":true,"adapter":"krmizi-qesen-embed-v3","mediaType":"series","classificationMode":"auto_country","url":"https://krmizi.onl/series-list/","review":{"totalWorks":192,"passed":true,"checkedAt":"2026-10-24T01:36:08.915858+00:00","viewerReady":false,"readerType":"video"},"isPrimary":false,"function":"collect","hiddenServers":["arab hd","dailymotion","ok","red hd","turk"],"approvedServers":["estream","express"],"autoHiddenServers":[],"displayUrl":"https://krmizi.onl/series-list/","countryMembership":[],"sourceCountry":"تركيا"},{"section":"mixed","contentType":"mixed","name":"Larooza","hiddenWorks":[],"enabled":true,"adapter":"larooza-html-embeds-v1","mediaType":"series","classificationMode":"per_work","url":"https://larooza.study/","review":{"totalWorks":6275,"passed":true,"checkedAt":"2026-10-27T02:41:07.091440+00:00","reviewedAt":"2026-10-26T09:53:46.902645+00:00","viewerReady":false},"isPrimary":false,"function":"combined","hiddenServers":["abstream","dailymotion","dintezuvio","dsvplay","filemoon","film77","hdup","listeamed","luluvideo","ok.ru","okhd","uqload","vidoba","vk","vkvideo","vkvideo.ru","voe"],"approvedServers":["mp4plus","vidmoly","anafast"],"autoHiddenServers":[],"displayUrl":"https://larooza.study/","countryMembership":[],"sourceCountry":"","mediaTypes":["series","movies","anime"],"contentTypes":["series","movies","anime"]},{"section":"comics","contentType":"mixed","name":"تيم اكس","hiddenWorks":[],"enabled":true,"adapter":"generic-comics-v1","mediaType":"manhwa","classificationMode":"auto_country","url":"https://olympustaff.com/","review":{"totalWorks":1311,"passed":true,"checkedAt":"2026-10-18T02:22:35.886Z","viewerReady":true,"sourcePages":33},"requestedFunction":"collect","isPrimary":false,"function":"collect","hiddenServers":["dailymotion"],"autoHiddenServers":[],"routing":{"schema":1,"totalWorks":1311,"generatedAt":"2026-10-18T02:22:33.062949+00:00"}},{"section":"series","contentType":"mixed","name":"ShoofLive - شوف لايف","hiddenWorks":[],"enabled":true,"adapter":"shooflive-v1","mediaType":"mixed","classificationMode":"auto_country","url":"https://q4.shooflive.sbs/","review":{"totalWorks":1223,"passed":true,"reviewedAt":"2026-10-26T18:34:33.679434+00:00","viewerReady":false},"isPrimary":false,"function":"collect","hiddenServers":["vk","voe"],"approvedServers":["anafast","mp4plus","vidspeed"],"autoHiddenServers":[],"displayUrl":"https://q4.shooflive.sbs/","mediaTypes":["series","movies"],"contentTypes":["series","movies"]},{"section":"anime","contentType":"mixed","name":"RistoAnime","hiddenWorks":[],"enabled":true,"adapter":"risto-series-v1","mediaType":"anime","classificationMode":"auto_country","url":"https://ristoanime.me/","review":{"totalWorks":443,"passed":true,"reviewedAt":"2026-10-18T00:50:40.269138+00:00","viewerReady":true},"isPrimary":true,"function":"combined","hiddenServers":["cybervynx.com","dhcplay.com","ghbrisk.com","gradehgplus.com","hlswish.com","listeamed.net","mp4upload","sendvid","sibnet","streamwish","turbovidhls.com","wish.com","سيرفر 1.2","سيرفر 2","سيرفر 3","سيرفر 3.1","سيرفر 4","سيرفر احتياطي 1"],"approvedServers":["vidmoly","uqload.cx","mega"],"autoHiddenServers":[],"displayUrl":"https://ristoanime.me/","routing":{"schema":1,"totalWorks":443,"generatedAt":"2026-10-18T00:50:50.004552+00:00"},"loadingScreenEnabled":true},{"section":"anime","contentType":"other","name":"توب أنمي - مسلسلات الكرتون المدبلجة والمترجمة","hiddenWorks":[],"enabled":true,"adapter":"verified-publisher-work-route-maps","mediaType":"anime","classificationMode":"auto_country","url":"https://sa.t4an.net/moslslat.php","review":{"totalWorks":180,"passed":true,"checkedAt":"2026-10-21T17:16:51.626Z","reviewedAt":"2026-10-21T17:16:51.626Z","viewerReady":false},"isPrimary":false,"function":"collect","hiddenServers":["dailymotion"],"approvedServers":["سيرفر 1 · stream200.shop","سيرفر 3 · luluanime.store","سيرفر 1 · uqload.com"],"autoHiddenServers":[],"displayUrl":"https://sa.t4an.net/moslslat.php"},{"section":"movies","contentType":"movies_anime","name":"توب أنمي - أفلام الكرتون المدبلجة والمترجمة","hiddenWorks":[],"enabled":true,"adapter":"verified-publisher-work-route-maps","mediaType":"movies","classificationMode":"auto_country","url":"https://sa.t4an.net/newvideos.php","review":{"totalWorks":673,"passed":true,"checkedAt":"2026-10-21T17:16:51.626Z","reviewedAt":"2026-10-21T17:16:51.626Z","viewerReady":false},"isPrimary":false,"function":"collect","hiddenServers":["dailymotion"],"approvedServers":["سيرفر 1 · stream200.shop","سيرفر 3 · luluanime.store","سيرفر 1 · uqload.com"],"autoHiddenServers":[],"displayUrl":"https://sa.t4an.net/newvideos.php"},{"section":"anime","contentType":"mixed","name":"سبيس باور فان - الأنمي المدبلج","hiddenWorks":["https://spacepowerfans.com/anime/%d8%b3%d9%84%d8%a7%d9%85-%d8%af%d8%a7%d9%86%d9%83-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d8%a8%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9/"],"enabled":true,"adapter":"verified-publisher-work-route-maps","mediaType":"anime","classificationMode":"auto_country","url":"https://spacepowerfans.com/anime/","review":{"totalWorks":181,"passed":true,"checkedAt":"2026-10-21T00:43:53.814751+00:00","reviewedAt":"2026-10-21T00:43:53.814751+00:00","viewerReady":false},"isPrimary":false,"function":"collect","hiddenServers":["dailymotion"],"approvedServers":["4shared"],"autoHiddenServers":[],"displayUrl":"https://spacepowerfans.com/anime/","dubbed":true},{"section":"series","contentType":"mixed","name":"TopCinema – المسلسلات الأجنبية","hiddenWorks":[],"enabled":true,"adapter":"topcinema-video-v1","mediaType":"series","classificationMode":"auto_country","url":"https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A/","review":{"totalWorks":1907,"passed":true,"checkedAt":"2026-10-18T18:57:08.412Z","viewerReady":true,"readerType":"video","sourcePages":64},"isPrimary":false,"function":"collect","hiddenServers":["dailymotion"],"autoHiddenServers":[],"displayUrl":"https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A/","routing":{"schema":1,"totalWorks":1907,"generatedAt":"2026-10-18T20:00:55.460966+00:00"}},{"section":"series","contentType":"mixed","name":"TopCinema – المسلسلات الآسيوية","hiddenWorks":[],"enabled":true,"adapter":"topcinema-video-v1","mediaType":"series","classificationMode":"auto_country","url":"https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/","review":{"totalWorks":1775,"passed":true,"checkedAt":"2026-10-18T18:57:19.512Z","viewerReady":true,"readerType":"video","sourcePages":60},"isPrimary":false,"function":"collect","hiddenServers":["dailymotion"],"autoHiddenServers":[],"displayUrl":"https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/","routing":{"schema":1,"totalWorks":1775,"generatedAt":"2026-10-18T19:14:28.202032+00:00"}},{"section":"anime","contentType":"mixed","name":"Topcinema","hiddenWorks":[],"enabled":true,"adapter":"topcinema-video-v1","mediaType":"anime","classificationMode":"auto_country","url":"https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/","review":{"totalWorks":930,"passed":true,"checkedAt":"2026-10-18T03:40:49.802Z","viewerReady":true,"readerType":"video","sourcePages":31},"isPrimary":false,"function":"collect","hiddenServers":["byse","dailymotion","doodstream","filelions","filemoon","lulustream","ok","streamtape","streamwish","videotube","مشغل 1","مشغل down.vidtube.one"],"approvedServers":["updown"],"autoHiddenServers":["byse"],"displayUrl":"https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/","routing":{"schema":1,"totalWorks":930,"generatedAt":"2026-10-18T05:38:06.539223+00:00"}},{"section":"movies","contentType":"mixed","name":"TopCinema","hiddenWorks":[],"enabled":true,"adapter":"topcinema-video-v1","mediaType":"movies","classificationMode":"auto_country","url":"https://web5.topcinema.fan/movies/","review":{"totalWorks":4010,"passed":true,"checkedAt":"2026-10-18T08:39:41.681Z","viewerReady":true,"readerType":"movie","sourcePages":67},"isPrimary":false,"function":"collect","hiddenServers":["dailymotion"],"autoHiddenServers":[],"displayUrl":"https://web5.topcinema.fan/movies/","routing":{"schema":1,"totalWorks":4010,"generatedAt":"2026-10-18T17:23:23.217212+00:00"}},{"section":"series","contentType":"mixed","name":"قصة عشق - مسلسلات تركية مدبلجة","hiddenWorks":[],"enabled":true,"adapter":"verified-publisher-work-route-maps","mediaType":"series","classificationMode":"auto_country","url":"https://ww4.3ick.club/genre/series-mudablij-121/","review":{"totalWorks":506,"passed":true,"checkedAt":"2026-10-21T00:43:53.814751+00:00","reviewedAt":"2026-10-21T00:43:53.814751+00:00","viewerReady":false},"isPrimary":false,"function":"collect","hiddenServers":["dailymotion"],"approvedServers":[],"autoHiddenServers":[],"displayUrl":"https://ww4.3ick.club/genre/series-mudablij-121/","sourceCountry":"turkey","dubbed":true},{"section":"movies","contentType":"movies_asian","name":"قصة عشق - أفلام تركية مدبلجة ومترجمة","hiddenWorks":[],"enabled":true,"adapter":"verified-publisher-work-route-maps","mediaType":"movies","classificationMode":"auto_country","url":"https://ww4.3ick.club/w-mvs/","review":{"totalWorks":423,"passed":true,"checkedAt":"2026-10-21T00:43:53.814751+00:00","reviewedAt":"2026-10-21T00:43:53.814751+00:00","viewerReady":false},"isPrimary":false,"function":"collect","hiddenServers":["dailymotion"],"autoHiddenServers":[],"displayUrl":"https://ww4.3ick.club/w-mvs/","sourceCountry":"turkey"},{"section":"anime","contentType":"other","name":"Dima Toon","logo":"https://www.dima-toon.com/wp-content/uploads/2025/06/Dima-toon-favicon.png","hiddenWorks":[],"enabled":true,"adapter":"dima-toon-publisher-episode-v1","mediaType":"anime","classificationMode":"per_work","url":"https://www.dima-toon.com/","review":{"totalWorks":190,"passed":true,"checkedAt":"2026-10-26T20:27:24.552326+00:00","reviewedAt":"2026-10-26T19:03:08.973948+00:00","viewerReady":true},"isPrimary":false,"function":"collect","hiddenServers":["dailymotion"],"approvedServers":["dima toon mp4"],"autoHiddenServers":[],"displayUrl":"https://www.dima-toon.com/جميع-المسلسلات-الكرتونية/","audioType":"dubbed","sourceCountry":"","dubbed":true,"mediaTypes":["anime"],"contentTypes":["other"]}]}
+{
+  "schema": 1,
+  "revision": "dde0c0311d7fe3d1a15be9f845d4e3aa8647df48ebc4311f7274960488e17a2f",
+  "publishedAt": "2026-11-04T03:06:45.897662+00:00",
+  "sources": [
+    {
+      "section": "anime",
+      "contentType": "anime",
+      "name": "Anime4up",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "anime4up-episode-datawatch-v1",
+      "mediaType": "anime",
+      "classificationMode": "per_work",
+      "url": "https://4b.cqi8zqa.shop/",
+      "review": {
+        "worksSeen": 2342,
+        "totalWorks": 2342,
+        "mode": "full-archive-verified-episode-links;exclude-11-no-episodes;video-playback-unverified",
+        "passed": true,
+        "checkedAt": "2026-10-26T19:36:02.629187+00:00",
+        "viewerReady": true,
+        "archiveComplete": true,
+        "verifiedWatchPage": true,
+        "sourcePages": 118,
+        "sampleOnly": false
+      },
+      "function": "collect",
+      "hiddenServers": [
+        "4shared.com",
+        "dailymotion",
+        "mp4upload",
+        "ok video",
+        "playmogo.com",
+        "voe"
+      ],
+      "approvedServers": [
+        "uqload",
+        "share4max.com"
+      ],
+      "autoHiddenServers": [],
+      "serverReliability": {
+        "مشغل 6": {
+          "tier": "backup",
+          "successful": 1,
+          "failed": 0,
+          "tested": 1,
+          "window": 30,
+          "successRate": 1.0
+        }
+      },
+      "displayUrl": "https://4b.cqi8zqa.shop/%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D8%A7%D9%86%D9%85%D9%8A/",
+      "serverVisibilityRevision": 15,
+      "mediaTypes": [
+        "anime"
+      ],
+      "contentTypes": [
+        "anime"
+      ]
+    },
+    {
+      "section": "anime",
+      "contentType": "mixed",
+      "name": "أنمي زد - مسلسلات كرتون",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "verified-publisher-work-route-maps",
+      "mediaType": "anime",
+      "classificationMode": "auto_country",
+      "url": "https://animezid.org/category.php?cat=cartoon",
+      "review": {
+        "worksSeen": 60,
+        "totalWorks": 60,
+        "mode": "mapped-subset-published-playback-pending",
+        "pagesChecked": 2,
+        "passed": true,
+        "checkedAt": "2026-10-21T00:43:53.814751+00:00",
+        "reviewedAt": "2026-10-21T00:43:53.814751+00:00",
+        "viewerReady": false,
+        "archiveComplete": true,
+        "verifiedWatchPage": false
+      },
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [
+        "dailymotion",
+        "lulustream · 720p · cf8db03",
+        "mixdrop · 720p · dc979ac",
+        "playmate",
+        "turboviplay"
+      ],
+      "approvedServers": [
+        "uqload",
+        "streamruby",
+        "doodstream · 720p · 8a44ffd"
+      ],
+      "smartPlaybackMode": "auto",
+      "autoHiddenServers": [],
+      "serverReliability": {},
+      "displayUrl": "https://animezid.org/category.php?cat=cartoon",
+      "serverVisibilityRevision": 54,
+      "loadingScreenEnabled": true
+    },
+    {
+      "section": "movies",
+      "contentType": "mixed",
+      "name": "أنمي زد - أفلام ديزني بالفصحى",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "verified-publisher-work-route-maps",
+      "mediaType": "movies",
+      "classificationMode": "auto_country",
+      "url": "https://animezid.org/category.php?cat=disney-arabic",
+      "review": {
+        "worksSeen": 29,
+        "totalWorks": 29,
+        "mode": "mapped-subset-published-playback-pending",
+        "pagesChecked": 3,
+        "passed": true,
+        "checkedAt": "2026-10-21T00:43:53.814751+00:00",
+        "reviewedAt": "2026-10-21T00:43:53.814751+00:00",
+        "viewerReady": false,
+        "archiveComplete": true,
+        "verifiedWatchPage": false
+      },
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [
+        "dailymotion",
+        "lulustream · 720p · cf8db03",
+        "mixdrop · 720p · dc979ac",
+        "playmate",
+        "turboviplay"
+      ],
+      "approvedServers": [
+        "uqload",
+        "streamruby",
+        "doodstream · 720p · 8a44ffd"
+      ],
+      "smartPlaybackMode": "auto",
+      "autoHiddenServers": [],
+      "serverReliability": {},
+      "displayUrl": "https://animezid.org/category.php?cat=disney-arabic",
+      "serverVisibilityRevision": 32,
+      "loadingScreenEnabled": true
+    },
+    {
+      "section": "movies",
+      "contentType": "mixed",
+      "name": "أنمي زد - أفلام ديزني بالمصري",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "verified-publisher-work-route-maps",
+      "mediaType": "movies",
+      "classificationMode": "auto_country",
+      "url": "https://animezid.org/category.php?cat=disney-masr",
+      "review": {
+        "worksSeen": 27,
+        "totalWorks": 27,
+        "mode": "mapped-subset-published-playback-pending",
+        "pagesChecked": 4,
+        "passed": true,
+        "checkedAt": "2026-10-21T00:43:53.814751+00:00",
+        "reviewedAt": "2026-10-21T00:43:53.814751+00:00",
+        "viewerReady": false,
+        "archiveComplete": true,
+        "verifiedWatchPage": false
+      },
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [
+        "dailymotion",
+        "lulustream · 720p · cf8db03",
+        "mixdrop · 720p · dc979ac",
+        "playmate",
+        "turboviplay"
+      ],
+      "approvedServers": [
+        "uqload",
+        "streamruby",
+        "doodstream · 720p · 8a44ffd"
+      ],
+      "smartPlaybackMode": "auto",
+      "autoHiddenServers": [],
+      "serverReliability": {},
+      "displayUrl": "https://animezid.org/category.php?cat=disney-masr",
+      "serverVisibilityRevision": 43,
+      "loadingScreenEnabled": true
+    },
+    {
+      "section": "series",
+      "contentType": "mixed",
+      "name": "أنمي زد - مسلسلات ديزني",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "verified-publisher-work-route-maps",
+      "mediaType": "series",
+      "classificationMode": "auto_country",
+      "url": "https://animezid.org/category.php?cat=disney-series",
+      "review": {
+        "worksSeen": 23,
+        "totalWorks": 23,
+        "mode": "mapped-subset-published-playback-pending",
+        "pagesChecked": 1,
+        "passed": true,
+        "checkedAt": "2026-10-21T00:43:53.814751+00:00",
+        "reviewedAt": "2026-10-21T00:43:53.814751+00:00",
+        "viewerReady": false,
+        "archiveComplete": true,
+        "verifiedWatchPage": false
+      },
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [
+        "dailymotion",
+        "lulustream · 720p · cf8db03",
+        "mixdrop · 720p · dc979ac",
+        "playmate",
+        "turboviplay"
+      ],
+      "approvedServers": [
+        "uqload",
+        "streamruby",
+        "doodstream · 720p · 8a44ffd"
+      ],
+      "smartPlaybackMode": "auto",
+      "autoHiddenServers": [],
+      "serverReliability": {},
+      "displayUrl": "https://animezid.org/category.php?cat=disney-series",
+      "serverVisibilityRevision": 36,
+      "loadingScreenEnabled": true
+    },
+    {
+      "section": "movies",
+      "contentType": "mixed",
+      "name": "أنمي زد - أفلام أنيميشن مدبلجة",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "verified-publisher-work-route-maps",
+      "mediaType": "movies",
+      "classificationMode": "auto_country",
+      "url": "https://animezid.org/category.php?cat=dubbed-animation",
+      "review": {
+        "worksSeen": 695,
+        "totalWorks": 695,
+        "mode": "mapped-subset-published-playback-pending",
+        "pagesChecked": 12,
+        "passed": true,
+        "checkedAt": "2026-10-21T00:43:53.814751+00:00",
+        "reviewedAt": "2026-10-21T00:43:53.814751+00:00",
+        "viewerReady": false,
+        "archiveComplete": true,
+        "verifiedWatchPage": false
+      },
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [
+        "dailymotion",
+        "lulustream · 720p · cf8db03",
+        "mixdrop · 720p · dc979ac",
+        "playmate",
+        "turboviplay"
+      ],
+      "approvedServers": [
+        "uqload",
+        "streamruby",
+        "doodstream · 720p · 8a44ffd"
+      ],
+      "smartPlaybackMode": "auto",
+      "autoHiddenServers": [],
+      "serverReliability": {},
+      "displayUrl": "https://animezid.org/category.php?cat=dubbed-animation",
+      "serverVisibilityRevision": 30,
+      "loadingScreenEnabled": true
+    },
+    {
+      "section": "anime",
+      "contentType": "mixed",
+      "name": "أنمي زد - المدبلج",
+      "hiddenWorks": [
+        "https://animezid.org/series/%D9%8A%D9%88%D8%BA%D9%8A-%D9%8A%D9%88-%D8%A3%D8%B1%D9%83-%D9%81%D8%A7%D9%8A%D9%81/"
+      ],
+      "enabled": true,
+      "adapter": "verified-publisher-work-route-maps",
+      "mediaType": "anime",
+      "classificationMode": "auto_country",
+      "url": "https://animezid.org/category.php?cat=dubbed-anime",
+      "review": {
+        "worksSeen": 87,
+        "totalWorks": 87,
+        "countVerifiedAt": "2026-11-04T03:05:29.344075+00:00",
+        "mode": "full-archive-catalog-approved-playback-pending",
+        "pagesChecked": 2,
+        "passed": true,
+        "checkedAt": "2026-11-04T03:05:29.344075+00:00",
+        "reviewedAt": "2026-11-04T03:05:29.344075+00:00",
+        "viewerReady": false,
+        "archiveComplete": true,
+        "verifiedWatchPage": false,
+        "sourcePages": 2,
+        "countPagesChecked": 2,
+        "totalWorksIsEstimate": false
+      },
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [
+        "dailymotion"
+      ],
+      "approvedServers": [
+        "uqload",
+        "streamruby",
+        "doodstream · 720p · 8a44ffd"
+      ],
+      "smartPlaybackMode": "auto",
+      "autoHiddenServers": [],
+      "serverReliability": {},
+      "displayUrl": "https://animezid.org/category.php?cat=dubbed-anime",
+      "serverVisibilityRevision": 59,
+      "loadingScreenEnabled": false,
+      "dubbed": true
+    },
+    {
+      "section": "anime",
+      "contentType": "mixed",
+      "name": "أنمي زد - أعمال سبيستون",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "verified-publisher-work-route-maps",
+      "mediaType": "anime",
+      "classificationMode": "auto_country",
+      "url": "https://animezid.org/category.php?cat=spacetoon",
+      "review": {
+        "worksSeen": 66,
+        "totalWorks": 66,
+        "mode": "mapped-subset-published-playback-pending",
+        "pagesChecked": 2,
+        "passed": true,
+        "checkedAt": "2026-10-21T00:43:53.814751+00:00",
+        "reviewedAt": "2026-10-21T00:43:53.814751+00:00",
+        "viewerReady": false,
+        "archiveComplete": true,
+        "verifiedWatchPage": false
+      },
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [
+        "dailymotion",
+        "lulustream · 720p · cf8db03",
+        "mixdrop · 720p · dc979ac",
+        "playmate",
+        "turboviplay"
+      ],
+      "approvedServers": [
+        "uqload",
+        "streamruby",
+        "doodstream · 720p · 8a44ffd"
+      ],
+      "smartPlaybackMode": "auto",
+      "autoHiddenServers": [],
+      "serverReliability": {},
+      "displayUrl": "https://animezid.org/category.php?cat=spacetoon",
+      "serverVisibilityRevision": 76,
+      "loadingScreenEnabled": true
+    },
+    {
+      "section": "series",
+      "contentType": "mixed",
+      "name": "Fushaar - فشار",
+      "hiddenWorks": [
+        "https://fussshaar.rest/category.php?cat=Fool-In-Love"
+      ],
+      "enabled": true,
+      "adapter": "fushaar-data-embed-v1",
+      "mediaType": "series",
+      "classificationMode": "per_work",
+      "url": "https://fussshaar.rest/",
+      "review": {
+        "worksSeen": 1233,
+        "totalWorks": 1233,
+        "mode": "catalog-eligible-verified-1233-19-no-ep1-4-empty",
+        "pagesChecked": 5,
+        "passed": true,
+        "checkedAt": "2026-10-27T03:08:05.154829+00:00",
+        "reviewedAt": "2026-10-27T03:08:05.154829+00:00",
+        "viewerReady": true,
+        "archiveComplete": true,
+        "verifiedWatchPage": true,
+        "sampleOnly": false
+      },
+      "isPrimary": false,
+      "function": "combined",
+      "hiddenServers": [
+        "abstream",
+        "abyssplayer",
+        "dhtpre",
+        "dsvplay",
+        "mxdrop",
+        "rubyvidhub"
+      ],
+      "approvedServers": [
+        "uqload",
+        "vidara",
+        "bysesukior"
+      ],
+      "smartPlaybackMode": "auto",
+      "autoHiddenServers": [],
+      "displayUrl": "https://fussshaar.rest/",
+      "serverVisibilityRevision": 13,
+      "mediaTypes": [
+        "series"
+      ],
+      "contentTypes": [
+        "series_asian",
+        "series_foreign",
+        "series_arabic"
+      ]
+    },
+    {
+      "section": "movies",
+      "contentType": "mixed",
+      "name": "ايجي ديد - أفلام أنمي مدبلجة",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "verified-publisher-work-route-maps",
+      "mediaType": "movies",
+      "classificationMode": "auto_country",
+      "url": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
+      "review": {
+        "worksSeen": 8,
+        "totalWorks": 8,
+        "mode": "mapped-subset-published-playback-pending",
+        "pagesChecked": 4,
+        "passed": true,
+        "checkedAt": "2026-10-21T00:43:53.814751+00:00",
+        "reviewedAt": "2026-10-21T00:43:53.814751+00:00",
+        "viewerReady": false,
+        "archiveComplete": true,
+        "verifiedWatchPage": false
+      },
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [
+        "aparat",
+        "byse",
+        "byse · 1080p (source)",
+        "byse · 720p",
+        "dailymotion",
+        "doodstream",
+        "doodstream · 1080p (source)",
+        "doodstream · 720p",
+        "earnvids",
+        "earnvids · 1080p (source)",
+        "earnvids · 720p",
+        "streamix",
+        "streamruby",
+        "uptostream",
+        "uqload",
+        "userload",
+        "vidara · 1080p (source)",
+        "vidara · 720p",
+        "voe",
+        "voe · 1080p (source)",
+        "voe · 720p",
+        "youdbox"
+      ],
+      "approvedServers": [
+        "mixdrop",
+        "vidmoly · 1080p (source)",
+        "uqload · 1080p (source)"
+      ],
+      "smartPlaybackMode": "auto",
+      "autoHiddenServers": [],
+      "serverReliability": {},
+      "displayUrl": "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/",
+      "serverVisibilityRevision": 36,
+      "dubbed": true
+    },
+    {
+      "section": "movies",
+      "contentType": "mixed",
+      "name": "ايجي ديد - أفلام أجنبية مدبلجة",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "verified-publisher-work-route-maps",
+      "mediaType": "movies",
+      "classificationMode": "auto_country",
+      "url": "https://k8w4e.sbs/category/english-movies/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A%D8%A9-%D9%85%D8%AF%D8%A8%D9%84%D8%AC%D8%A9/",
+      "review": {
+        "worksSeen": 305,
+        "totalWorks": 305,
+        "mode": "mapped-subset-published-playback-pending",
+        "pagesChecked": 0,
+        "passed": true,
+        "checkedAt": "2026-10-21T00:43:53.814751+00:00",
+        "reviewedAt": "2026-10-21T00:43:53.814751+00:00",
+        "viewerReady": false,
+        "archiveComplete": true,
+        "verifiedWatchPage": false
+      },
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [
+        "aparat",
+        "byse",
+        "byse · 1080p (source)",
+        "byse · 720p",
+        "dailymotion",
+        "doodstream",
+        "doodstream · 1080p (source)",
+        "doodstream · 720p",
+        "earnvids",
+        "earnvids · 1080p (source)",
+        "earnvids · 720p",
+        "streamix",
+        "streamruby",
+        "uptostream",
+        "uqload",
+        "userload",
+        "vidara · 1080p (source)",
+        "vidara · 720p",
+        "voe",
+        "voe · 1080p (source)",
+        "voe · 720p",
+        "youdbox"
+      ],
+      "approvedServers": [
+        "mixdrop",
+        "vidmoly · 1080p (source)",
+        "uqload · 1080p (source)"
+      ],
+      "smartPlaybackMode": "auto",
+      "autoHiddenServers": [],
+      "serverReliability": {},
+      "displayUrl": "https://k8w4e.sbs/category/english-movies/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A%D8%A9-%D9%85%D8%AF%D8%A8%D9%84%D8%AC%D8%A9/",
+      "serverVisibilityRevision": 31,
+      "dubbed": true
+    },
+    {
+      "section": "anime",
+      "contentType": "mixed",
+      "name": "ايجي ديد - أنمي مدبلج",
+      "hiddenWorks": [
+        "https://k8w4e.sbs/season/%d8%a7%d9%86%d9%85%d9%8a-%d8%a7%d9%84%d9%85%d8%ad%d9%82%d9%82-%d9%83%d9%88%d9%86%d8%a7%d9%86-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-32-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84/",
+        "https://k8w4e.sbs/season/detective-conan-ar/",
+        "https://k8w4e.sbs/season/dr-stone-s04-ar/"
+      ],
+      "enabled": true,
+      "adapter": "verified-publisher-work-route-maps",
+      "mediaType": "anime",
+      "classificationMode": "auto_country",
+      "url": "https://k8w4e.sbs/series-category/anime-series-dubbed/",
+      "review": {
+        "worksSeen": 65,
+        "totalWorks": 65,
+        "mode": "mapped-subset-published-playback-pending",
+        "pagesChecked": 0,
+        "passed": true,
+        "checkedAt": "2026-10-21T00:43:53.814751+00:00",
+        "reviewedAt": "2026-10-21T00:43:53.814751+00:00",
+        "viewerReady": false,
+        "archiveComplete": true,
+        "verifiedWatchPage": false
+      },
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [
+        "aparat",
+        "byse",
+        "byse · 1080p (source)",
+        "byse · 720p",
+        "dailymotion",
+        "doodstream",
+        "doodstream · 1080p (source)",
+        "doodstream · 720p",
+        "earnvids",
+        "earnvids · 1080p (source)",
+        "earnvids · 720p",
+        "streamix",
+        "streamruby",
+        "uptostream",
+        "uqload",
+        "userload",
+        "vidara · 1080p (source)",
+        "vidara · 720p",
+        "voe",
+        "voe · 1080p (source)",
+        "voe · 720p",
+        "youdbox"
+      ],
+      "approvedServers": [
+        "mixdrop",
+        "vidmoly · 1080p (source)",
+        "uqload · 1080p (source)"
+      ],
+      "smartPlaybackMode": "auto",
+      "autoHiddenServers": [],
+      "serverReliability": {},
+      "displayUrl": "https://k8w4e.sbs/series-category/anime-series-dubbed/",
+      "serverVisibilityRevision": 65,
+      "dubbed": true
+    },
+    {
+      "section": "anime",
+      "contentType": "mixed",
+      "name": "ايجي ديد - رسوم متحركة مدبلجة",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "verified-publisher-work-route-maps",
+      "mediaType": "anime",
+      "classificationMode": "auto_country",
+      "url": "https://k8w4e.sbs/series-category/cartoon-series-dubbed/",
+      "review": {
+        "worksSeen": 129,
+        "totalWorks": 129,
+        "mode": "mapped-subset-published-playback-pending",
+        "pagesChecked": 0,
+        "passed": true,
+        "checkedAt": "2026-10-21T00:43:53.814751+00:00",
+        "reviewedAt": "2026-10-21T00:43:53.814751+00:00",
+        "viewerReady": false,
+        "archiveComplete": true,
+        "verifiedWatchPage": false
+      },
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [
+        "aparat",
+        "byse",
+        "byse · 1080p (source)",
+        "byse · 720p",
+        "dailymotion",
+        "doodstream",
+        "doodstream · 1080p (source)",
+        "doodstream · 720p",
+        "earnvids",
+        "earnvids · 1080p (source)",
+        "earnvids · 720p",
+        "streamix",
+        "streamruby",
+        "uptostream",
+        "uqload",
+        "userload",
+        "vidara · 1080p (source)",
+        "vidara · 720p",
+        "voe",
+        "voe · 1080p (source)",
+        "voe · 720p",
+        "youdbox"
+      ],
+      "approvedServers": [
+        "mixdrop",
+        "vidmoly · 1080p (source)",
+        "uqload · 1080p (source)"
+      ],
+      "smartPlaybackMode": "auto",
+      "autoHiddenServers": [],
+      "serverReliability": {},
+      "displayUrl": "https://k8w4e.sbs/series-category/cartoon-series-dubbed/",
+      "serverVisibilityRevision": 31,
+      "dubbed": true
+    },
+    {
+      "section": "anime",
+      "contentType": "mixed",
+      "name": "ايجي ديد - أنمي صيني",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "verified-publisher-work-route-maps",
+      "mediaType": "anime",
+      "classificationMode": "auto_country",
+      "url": "https://k8w4e.sbs/series-category/chinese-anime/",
+      "review": {
+        "worksSeen": 45,
+        "totalWorks": 46,
+        "mode": "native-country-category-maps-approved-playback-unverified",
+        "pagesChecked": 2,
+        "passed": true,
+        "checkedAt": "2026-10-29T20:27:04.573648+00:00",
+        "viewerReady": false,
+        "archiveComplete": true,
+        "verifiedWatchPage": false
+      },
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [],
+      "approvedServers": [
+        "mixdrop",
+        "vidmoly · 1080p (source)",
+        "uqload · 1080p (source)"
+      ],
+      "smartPlaybackMode": "auto",
+      "serverReliability": {},
+      "displayUrl": "https://k8w4e.sbs/series-category/chinese-anime/",
+      "routing": {
+        "schema": 1,
+        "totalWorks": 45,
+        "generatedAt": "2026-10-29T20:27:04.573648+00:00"
+      },
+      "serverVisibilityRevision": 1
+    },
+    {
+      "section": "series",
+      "contentType": "mixed",
+      "name": "ايجي ديد - مسلسلات أجنبية مدبلجة",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "verified-publisher-work-route-maps",
+      "mediaType": "series",
+      "classificationMode": "auto_country",
+      "url": "https://k8w4e.sbs/series-category/english-series-dubbed/",
+      "review": {
+        "worksSeen": 61,
+        "totalWorks": 61,
+        "mode": "mapped-subset-published-playback-pending",
+        "pagesChecked": 0,
+        "passed": true,
+        "checkedAt": "2026-10-21T00:43:53.814751+00:00",
+        "reviewedAt": "2026-10-21T00:43:53.814751+00:00",
+        "viewerReady": false,
+        "archiveComplete": true,
+        "verifiedWatchPage": false
+      },
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [
+        "aparat",
+        "byse",
+        "byse · 1080p (source)",
+        "byse · 720p",
+        "dailymotion",
+        "doodstream",
+        "doodstream · 1080p (source)",
+        "doodstream · 720p",
+        "earnvids",
+        "earnvids · 1080p (source)",
+        "earnvids · 720p",
+        "streamix",
+        "streamruby",
+        "uptostream",
+        "uqload",
+        "userload",
+        "vidara · 1080p (source)",
+        "vidara · 720p",
+        "voe",
+        "voe · 1080p (source)",
+        "voe · 720p",
+        "youdbox"
+      ],
+      "approvedServers": [
+        "mixdrop",
+        "vidmoly · 1080p (source)",
+        "uqload · 1080p (source)"
+      ],
+      "smartPlaybackMode": "auto",
+      "autoHiddenServers": [],
+      "serverReliability": {},
+      "displayUrl": "https://k8w4e.sbs/series-category/english-series-dubbed/",
+      "serverVisibilityRevision": 53,
+      "dubbed": true
+    },
+    {
+      "section": "anime",
+      "contentType": "mixed",
+      "name": "ايجي ديد - أنمي كوري",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "verified-publisher-work-route-maps",
+      "mediaType": "anime",
+      "classificationMode": "auto_country",
+      "url": "https://k8w4e.sbs/series-category/korean-anime/",
+      "review": {
+        "worksSeen": 3,
+        "totalWorks": 3,
+        "mode": "native-country-category-maps-approved-playback-unverified",
+        "pagesChecked": 1,
+        "passed": true,
+        "checkedAt": "2026-10-29T20:27:04.556622+00:00",
+        "viewerReady": false,
+        "archiveComplete": true,
+        "verifiedWatchPage": false
+      },
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [],
+      "approvedServers": [
+        "mixdrop",
+        "vidmoly · 1080p (source)",
+        "uqload · 1080p (source)"
+      ],
+      "smartPlaybackMode": "auto",
+      "serverReliability": {},
+      "displayUrl": "https://k8w4e.sbs/series-category/korean-anime/",
+      "routing": {
+        "schema": 1,
+        "totalWorks": 3,
+        "generatedAt": "2026-10-29T20:27:04.556622+00:00"
+      },
+      "serverVisibilityRevision": 1
+    },
+    {
+      "section": "series",
+      "contentType": "mixed",
+      "name": "ايجي ديد - مسلسلات لاتينية مدبلجة",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "verified-publisher-work-route-maps",
+      "mediaType": "series",
+      "classificationMode": "auto_country",
+      "url": "https://k8w4e.sbs/series-category/latino-series-dubbed/",
+      "review": {
+        "worksSeen": 2,
+        "totalWorks": 2,
+        "mode": "mapped-subset-published-playback-pending",
+        "pagesChecked": 0,
+        "passed": true,
+        "checkedAt": "2026-10-21T00:43:53.814751+00:00",
+        "reviewedAt": "2026-10-21T00:43:53.814751+00:00",
+        "viewerReady": false,
+        "archiveComplete": true,
+        "verifiedWatchPage": false
+      },
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [
+        "aparat",
+        "byse",
+        "byse · 1080p (source)",
+        "byse · 720p",
+        "dailymotion",
+        "doodstream",
+        "doodstream · 1080p (source)",
+        "doodstream · 720p",
+        "earnvids",
+        "earnvids · 1080p (source)",
+        "earnvids · 720p",
+        "streamix",
+        "streamruby",
+        "uptostream",
+        "uqload",
+        "userload",
+        "vidara · 1080p (source)",
+        "vidara · 720p",
+        "voe",
+        "voe · 1080p (source)",
+        "voe · 720p",
+        "youdbox"
+      ],
+      "approvedServers": [
+        "mixdrop",
+        "vidmoly · 1080p (source)",
+        "uqload · 1080p (source)"
+      ],
+      "smartPlaybackMode": "auto",
+      "autoHiddenServers": [],
+      "serverReliability": {},
+      "displayUrl": "https://k8w4e.sbs/series-category/latino-series-dubbed/",
+      "serverVisibilityRevision": 34,
+      "dubbed": true
+    },
+    {
+      "section": "series",
+      "contentType": "mixed",
+      "name": "ايجي ديد - مسلسلات تركية مدبلجة",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "verified-publisher-work-route-maps",
+      "mediaType": "series",
+      "classificationMode": "auto_country",
+      "url": "https://k8w4e.sbs/series-category/turkish-series-dubbed/",
+      "review": {
+        "worksSeen": 101,
+        "totalWorks": 101,
+        "mode": "mapped-subset-published-playback-pending",
+        "pagesChecked": 0,
+        "passed": true,
+        "checkedAt": "2026-10-21T00:43:53.814751+00:00",
+        "reviewedAt": "2026-10-21T00:43:53.814751+00:00",
+        "viewerReady": false,
+        "archiveComplete": true,
+        "verifiedWatchPage": false
+      },
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [
+        "aparat",
+        "byse",
+        "byse · 1080p (source)",
+        "byse · 720p",
+        "dailymotion",
+        "doodstream",
+        "doodstream · 1080p (source)",
+        "doodstream · 720p",
+        "earnvids",
+        "earnvids · 1080p (source)",
+        "earnvids · 720p",
+        "streamix",
+        "streamruby",
+        "uptostream",
+        "uqload",
+        "userload",
+        "vidara · 1080p (source)",
+        "vidara · 720p",
+        "voe",
+        "voe · 1080p (source)",
+        "voe · 720p",
+        "youdbox"
+      ],
+      "approvedServers": [
+        "mixdrop",
+        "vidmoly · 1080p (source)",
+        "uqload · 1080p (source)"
+      ],
+      "smartPlaybackMode": "auto",
+      "autoHiddenServers": [],
+      "serverReliability": {},
+      "displayUrl": "https://k8w4e.sbs/series-category/turkish-series-dubbed/",
+      "serverVisibilityRevision": 31,
+      "dubbed": true
+    },
+    {
+      "section": "comics",
+      "contentType": "mixed",
+      "name": "Kawaiimanga",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "kawaii-public-catalog-v1",
+      "mediaType": "manhwa",
+      "classificationMode": "auto_country",
+      "url": "https://kawaiimanga.org/browse",
+      "review": {
+        "worksSeen": 50,
+        "totalWorks": 388,
+        "countVerifiedAt": "2026-10-18T03:05:16.989Z",
+        "mode": "provider-live",
+        "passed": true,
+        "checkedAt": "2026-10-18T03:05:29.822Z",
+        "viewerReady": true,
+        "archiveComplete": true,
+        "sourcePages": 8,
+        "countPagesChecked": 8,
+        "totalWorksIsEstimate": false
+      },
+      "requestedFunction": "collect",
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [
+        "dailymotion"
+      ],
+      "autoHiddenServers": [],
+      "serverReliability": {},
+      "routing": {
+        "schema": 1,
+        "totalWorks": 388,
+        "generatedAt": "2026-10-18T03:05:25.751780+00:00"
+      }
+    },
+    {
+      "section": "mixed",
+      "contentType": "mixed",
+      "name": "Larooza",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "larooza-html-embeds-v2",
+      "mediaType": "series",
+      "classificationMode": "per_work",
+      "url": "https://laroza.garden/",
+      "review": {
+        "worksSeen": 6275,
+        "totalWorks": 6275,
+        "mode": "catalog-approved-playback-unverified",
+        "passed": true,
+        "checkedAt": "2026-10-27T02:41:07.091440+00:00",
+        "reviewedAt": "2026-10-26T09:53:46.902645+00:00",
+        "viewerReady": false,
+        "archiveComplete": true,
+        "verifiedWatchPage": false
+      },
+      "isPrimary": false,
+      "function": "combined",
+      "hiddenServers": [
+        "abstream",
+        "dailymotion",
+        "dintezuvio",
+        "dsvplay",
+        "filemoon",
+        "film77",
+        "hdup",
+        "listeamed",
+        "luluvideo",
+        "ok.ru",
+        "okhd",
+        "uqload",
+        "vidoba",
+        "vk",
+        "vkvideo",
+        "vkvideo.ru",
+        "voe"
+      ],
+      "approvedServers": [
+        "mp4plus",
+        "vidmoly",
+        "anafast"
+      ],
+      "autoHiddenServers": [],
+      "serverReliability": {
+        "film77": {
+          "tier": "primary",
+          "successful": 27,
+          "failed": 0,
+          "tested": 27,
+          "window": 30,
+          "successRate": 1
+        },
+        "okhd": {
+          "tier": "primary",
+          "successful": 30,
+          "failed": 0,
+          "tested": 30,
+          "window": 30,
+          "successRate": 1
+        },
+        "vidoba": {
+          "tier": "primary",
+          "successful": 10,
+          "failed": 0,
+          "tested": 10,
+          "window": 30,
+          "successRate": 1
+        }
+      },
+      "displayUrl": "https://laroza.garden/",
+      "serverVisibilityRevision": 34,
+      "countryMembership": [],
+      "sourceCountry": "",
+      "mediaTypes": [
+        "series",
+        "movies",
+        "anime"
+      ],
+      "contentTypes": [
+        "series",
+        "movies",
+        "anime"
+      ]
+    },
+    {
+      "section": "comics",
+      "contentType": "mixed",
+      "name": "تيم اكس",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "generic-comics-v1",
+      "mediaType": "manhwa",
+      "classificationMode": "auto_country",
+      "url": "https://olympustaff.com/",
+      "review": {
+        "worksSeen": 55,
+        "totalWorks": 1311,
+        "countVerifiedAt": "2026-10-18T02:22:27.146955+00:00",
+        "mode": "provider-live",
+        "passed": true,
+        "checkedAt": "2026-10-18T02:22:35.886Z",
+        "viewerReady": true,
+        "archiveComplete": true,
+        "sourcePages": 33,
+        "countPagesChecked": 33,
+        "totalWorksIsEstimate": false
+      },
+      "requestedFunction": "collect",
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [
+        "dailymotion"
+      ],
+      "autoHiddenServers": [],
+      "serverReliability": {},
+      "routing": {
+        "schema": 1,
+        "totalWorks": 1311,
+        "generatedAt": "2026-10-18T02:22:33.062949+00:00"
+      }
+    },
+    {
+      "section": "series",
+      "contentType": "mixed",
+      "name": "ShoofLive - شوف لايف",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "shooflive-v1",
+      "mediaType": "mixed",
+      "classificationMode": "auto_country",
+      "url": "https://q4.shooflive.sbs/",
+      "review": {
+        "worksSeen": 1223,
+        "totalWorks": 1223,
+        "mode": "catalog-passed-playback-per-episode-pending",
+        "passed": true,
+        "reviewedAt": "2026-10-26T18:34:33.679434+00:00",
+        "viewerReady": false,
+        "archiveComplete": true,
+        "verifiedWatchPage": false
+      },
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [
+        "vk",
+        "voe"
+      ],
+      "approvedServers": [
+        "anafast",
+        "mp4plus",
+        "vidspeed"
+      ],
+      "autoHiddenServers": [],
+      "displayUrl": "https://q4.shooflive.sbs/",
+      "serverVisibilityRevision": 5,
+      "mediaTypes": [
+        "series",
+        "movies"
+      ],
+      "contentTypes": [
+        "series",
+        "movies"
+      ]
+    },
+    {
+      "section": "anime",
+      "contentType": "mixed",
+      "name": "RistoAnime",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "risto-series-v1",
+      "mediaType": "anime",
+      "classificationMode": "auto_country",
+      "url": "https://ristoanime.me/",
+      "review": {
+        "totalWorks": 443,
+        "pagesChecked": 241,
+        "passed": true,
+        "reviewedAt": "2026-10-18T00:50:40.269138+00:00",
+        "viewerReady": true,
+        "archiveComplete": false
+      },
+      "isPrimary": true,
+      "function": "combined",
+      "hiddenServers": [
+        "cybervynx.com",
+        "dhcplay.com",
+        "ghbrisk.com",
+        "gradehgplus.com",
+        "hlswish.com",
+        "listeamed.net",
+        "mp4upload",
+        "sendvid",
+        "sibnet",
+        "streamwish",
+        "turbovidhls.com",
+        "wish.com",
+        "سيرفر 1.2",
+        "سيرفر 2",
+        "سيرفر 3",
+        "سيرفر 3.1",
+        "سيرفر 4",
+        "سيرفر احتياطي 1"
+      ],
+      "approvedServers": [
+        "vidmoly",
+        "uqload.cx",
+        "mega"
+      ],
+      "autoHiddenServers": [],
+      "serverReliability": {
+        "ok.ru – fhd": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 4,
+          "tested": 4,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "سيرفر 1": {
+          "tier": "backup",
+          "successful": 2,
+          "failed": 0,
+          "tested": 2,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "سيرفر 1.2": {
+          "tier": "primary",
+          "successful": 30,
+          "failed": 0,
+          "tested": 30,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "سيرفر 2": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 29,
+          "tested": 29,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "سيرفر 3": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 21,
+          "tested": 21,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "سيرفر 4": {
+          "tier": "primary",
+          "successful": 19,
+          "failed": 0,
+          "tested": 19,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "سيرفر احتياطي 1": {
+          "tier": "backup",
+          "successful": 4,
+          "failed": 1,
+          "tested": 5,
+          "window": 30,
+          "successRate": 0.8
+        }
+      },
+      "displayUrl": "https://ristoanime.me/",
+      "routing": {
+        "schema": 1,
+        "totalWorks": 443,
+        "generatedAt": "2026-10-18T00:50:50.004552+00:00"
+      },
+      "serverVisibilityRevision": 541,
+      "loadingScreenEnabled": true
+    },
+    {
+      "section": "anime",
+      "contentType": "other",
+      "name": "توب أنمي - مسلسلات الكرتون المدبلجة والمترجمة",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "verified-publisher-work-route-maps",
+      "mediaType": "anime",
+      "classificationMode": "auto_country",
+      "url": "https://sa.t4an.net/moslslat.php",
+      "review": {
+        "worksSeen": 167,
+        "totalWorks": 180,
+        "mode": "167-complete-and-13-hidden-playback-pending",
+        "pagesChecked": 10,
+        "passed": true,
+        "checkedAt": "2026-10-21T17:16:51.626Z",
+        "reviewedAt": "2026-10-21T17:16:51.626Z",
+        "viewerReady": false,
+        "archiveComplete": true,
+        "verifiedWatchPage": true,
+        "sampleOnly": false
+      },
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [
+        "dailymotion"
+      ],
+      "approvedServers": [
+        "سيرفر 1 · stream200.shop",
+        "سيرفر 3 · luluanime.store",
+        "سيرفر 1 · uqload.com"
+      ],
+      "autoHiddenServers": [],
+      "serverReliability": {},
+      "displayUrl": "https://sa.t4an.net/moslslat.php",
+      "serverVisibilityRevision": 34
+    },
+    {
+      "section": "movies",
+      "contentType": "movies_anime",
+      "name": "توب أنمي - أفلام الكرتون المدبلجة والمترجمة",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "verified-publisher-work-route-maps",
+      "mediaType": "movies",
+      "classificationMode": "auto_country",
+      "url": "https://sa.t4an.net/newvideos.php",
+      "review": {
+        "worksSeen": 650,
+        "totalWorks": 673,
+        "mode": "full-735-pages-verified-player-links-playback-pending",
+        "pagesChecked": 735,
+        "passed": true,
+        "checkedAt": "2026-10-21T17:16:51.626Z",
+        "reviewedAt": "2026-10-21T17:16:51.626Z",
+        "viewerReady": false,
+        "archiveComplete": true,
+        "verifiedWatchPage": true,
+        "sampleOnly": false
+      },
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [
+        "dailymotion"
+      ],
+      "approvedServers": [
+        "سيرفر 1 · stream200.shop",
+        "سيرفر 3 · luluanime.store",
+        "سيرفر 1 · uqload.com"
+      ],
+      "autoHiddenServers": [],
+      "serverReliability": {},
+      "displayUrl": "https://sa.t4an.net/newvideos.php",
+      "serverVisibilityRevision": 4
+    },
+    {
+      "section": "anime",
+      "contentType": "mixed",
+      "name": "سبيس باور فان - الأنمي المدبلج",
+      "hiddenWorks": [
+        "https://spacepowerfans.com/anime/%d8%b3%d9%84%d8%a7%d9%85-%d8%af%d8%a7%d9%86%d9%83-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d8%a8%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9/"
+      ],
+      "enabled": true,
+      "adapter": "verified-publisher-work-route-maps",
+      "mediaType": "anime",
+      "classificationMode": "auto_country",
+      "url": "https://spacepowerfans.com/anime/",
+      "review": {
+        "worksSeen": 181,
+        "totalWorks": 181,
+        "mode": "mapped-subset-published-playback-pending",
+        "pagesChecked": 10,
+        "passed": true,
+        "checkedAt": "2026-10-21T00:43:53.814751+00:00",
+        "reviewedAt": "2026-10-21T00:43:53.814751+00:00",
+        "viewerReady": false,
+        "archiveComplete": true,
+        "verifiedWatchPage": false
+      },
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [
+        "dailymotion"
+      ],
+      "approvedServers": [
+        "4shared"
+      ],
+      "autoHiddenServers": [],
+      "serverReliability": {},
+      "displayUrl": "https://spacepowerfans.com/anime/",
+      "serverVisibilityRevision": 1,
+      "dubbed": true
+    },
+    {
+      "section": "series",
+      "contentType": "mixed",
+      "name": "TopCinema – المسلسلات الأجنبية",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "topcinema-video-v1",
+      "mediaType": "series",
+      "classificationMode": "auto_country",
+      "url": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A/",
+      "review": {
+        "worksSeen": 30,
+        "totalWorks": 1907,
+        "countVerifiedAt": "2026-10-18T19:17:42.193926+00:00",
+        "mode": "provider-live",
+        "passed": true,
+        "checkedAt": "2026-10-18T18:57:08.412Z",
+        "viewerReady": true,
+        "readerType": "video",
+        "archiveComplete": true,
+        "verifiedWatchPage": "https://web5.topcinema.fan/%d9%85%d8%b3%d9%84%d8%b3%d9%84-treasure-island-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%a7%d9%88%d9%84-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/watch/",
+        "sourcePages": 64,
+        "countPagesChecked": 64,
+        "totalWorksIsEstimate": false
+      },
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [
+        "dailymotion"
+      ],
+      "approvedServers": [
+        "updown"
+      ],
+      "smartPlaybackMode": "auto",
+      "autoHiddenServers": [],
+      "serverReliability": {
+        "okstream": {
+          "tier": "primary",
+          "successful": 6,
+          "failed": 0,
+          "tested": 6,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "streamwish": {
+          "tier": "primary",
+          "successful": 30,
+          "failed": 0,
+          "tested": 30,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "updown": {
+          "tier": "primary",
+          "successful": 30,
+          "failed": 0,
+          "tested": 30,
+          "window": 30,
+          "successRate": 1.0
+        }
+      },
+      "displayUrl": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A/",
+      "routing": {
+        "schema": 1,
+        "totalWorks": 1907,
+        "generatedAt": "2026-10-18T20:00:55.460966+00:00"
+      },
+      "serverVisibilityRevision": 28
+    },
+    {
+      "section": "series",
+      "contentType": "mixed",
+      "name": "TopCinema – المسلسلات الآسيوية",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "topcinema-video-v1",
+      "mediaType": "series",
+      "classificationMode": "auto_country",
+      "url": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
+      "review": {
+        "worksSeen": 30,
+        "totalWorks": 1775,
+        "countVerifiedAt": "2026-10-18T19:13:58.760Z",
+        "mode": "provider-live",
+        "passed": true,
+        "checkedAt": "2026-10-18T18:57:19.512Z",
+        "viewerReady": true,
+        "readerType": "video",
+        "archiveComplete": true,
+        "verifiedWatchPage": "https://web5.topcinema.fan/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d9%85%d9%81%d9%82%d9%88%d8%af%d9%88%d9%86-%d8%a7%d9%84%d8%b9%d8%b4%d8%b1%d8%a9-lost-10-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/watch/",
+        "sourcePages": 60,
+        "countPagesChecked": 60,
+        "totalWorksIsEstimate": false
+      },
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [
+        "dailymotion"
+      ],
+      "approvedServers": [
+        "updown"
+      ],
+      "smartPlaybackMode": "auto",
+      "autoHiddenServers": [],
+      "serverReliability": {
+        "okstream": {
+          "tier": "primary",
+          "successful": 12,
+          "failed": 0,
+          "tested": 12,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "streamwish": {
+          "tier": "primary",
+          "successful": 30,
+          "failed": 0,
+          "tested": 30,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "updown": {
+          "tier": "primary",
+          "successful": 30,
+          "failed": 0,
+          "tested": 30,
+          "window": 30,
+          "successRate": 1.0
+        }
+      },
+      "displayUrl": "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/",
+      "routing": {
+        "schema": 1,
+        "totalWorks": 1775,
+        "generatedAt": "2026-10-18T19:14:28.202032+00:00"
+      },
+      "serverVisibilityRevision": 30
+    },
+    {
+      "section": "anime",
+      "contentType": "mixed",
+      "name": "Topcinema",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "topcinema-video-v1",
+      "mediaType": "anime",
+      "classificationMode": "auto_country",
+      "url": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
+      "review": {
+        "worksSeen": 30,
+        "totalWorks": 930,
+        "countVerifiedAt": "2026-10-18T05:37:09.263332+00:00",
+        "mode": "provider-live",
+        "passed": true,
+        "checkedAt": "2026-10-18T03:40:49.802Z",
+        "viewerReady": true,
+        "readerType": "video",
+        "archiveComplete": true,
+        "verifiedWatchPage": "https://web5.topcinema.fan/%d8%a7%d9%86%d9%85%d9%8a-seitokai-ni-mo-ana-wa-aru-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9/watch/",
+        "sourcePages": 31,
+        "countPagesChecked": 31,
+        "totalWorksIsEstimate": false
+      },
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [
+        "dailymotion",
+        "doodstream",
+        "filelions",
+        "filemoon",
+        "lulustream",
+        "ok",
+        "streamtape",
+        "streamwish",
+        "videotube",
+        "مشغل 1",
+        "مشغل down.vidtube.one"
+      ],
+      "approvedServers": [
+        "updown"
+      ],
+      "smartPlaybackMode": "auto",
+      "autoHiddenServers": [],
+      "serverReliability": {
+        "byse": {
+          "tier": "backup",
+          "successful": 1,
+          "failed": 29,
+          "tested": 30,
+          "window": 30,
+          "successRate": 0.0333
+        },
+        "filelions": {
+          "tier": "backup",
+          "successful": 29,
+          "failed": 1,
+          "tested": 30,
+          "window": 30,
+          "successRate": 0.9667
+        },
+        "lulustream": {
+          "tier": "backup",
+          "successful": 2,
+          "failed": 0,
+          "tested": 2,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "mixdrop": {
+          "tier": "backup",
+          "successful": 1,
+          "failed": 1,
+          "tested": 2,
+          "window": 30,
+          "successRate": 0.5
+        },
+        "ok": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 22,
+          "tested": 22,
+          "window": 30,
+          "successRate": 0.0
+        },
+        "okstream": {
+          "tier": "backup",
+          "successful": 1,
+          "failed": 0,
+          "tested": 1,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "streamwish": {
+          "tier": "primary",
+          "successful": 30,
+          "failed": 0,
+          "tested": 30,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "updown": {
+          "tier": "primary",
+          "successful": 30,
+          "failed": 0,
+          "tested": 30,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "uptostream": {
+          "tier": "unverified",
+          "successful": 0,
+          "failed": 2,
+          "tested": 2,
+          "window": 30,
+          "successRate": 0.0
+        }
+      },
+      "displayUrl": "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/",
+      "routing": {
+        "schema": 1,
+        "totalWorks": 930,
+        "generatedAt": "2026-10-18T05:38:06.539223+00:00"
+      },
+      "serverVisibilityRevision": 132
+    },
+    {
+      "section": "movies",
+      "contentType": "mixed",
+      "name": "TopCinema",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "topcinema-video-v1",
+      "mediaType": "movies",
+      "classificationMode": "auto_country",
+      "url": "https://web5.topcinema.fan/movies/",
+      "review": {
+        "worksSeen": 60,
+        "totalWorks": 4010,
+        "countVerifiedAt": "2026-10-18T17:09:36.449Z",
+        "mode": "provider-live",
+        "passed": true,
+        "checkedAt": "2026-10-18T08:39:41.681Z",
+        "viewerReady": true,
+        "readerType": "movie",
+        "archiveComplete": true,
+        "verifiedWatchPage": "https://web5.topcinema.fan/%d9%81%d9%8a%d9%84%d9%85-wuthering-heights-the-house-of-the-damned-2026-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/watch/",
+        "sourcePages": 67,
+        "countPagesChecked": 67,
+        "totalWorksIsEstimate": false
+      },
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [
+        "dailymotion"
+      ],
+      "approvedServers": [
+        "updown"
+      ],
+      "smartPlaybackMode": "auto",
+      "autoHiddenServers": [],
+      "serverReliability": {
+        "okstream": {
+          "tier": "primary",
+          "successful": 28,
+          "failed": 0,
+          "tested": 28,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "streamwish": {
+          "tier": "primary",
+          "successful": 30,
+          "failed": 0,
+          "tested": 30,
+          "window": 30,
+          "successRate": 1.0
+        },
+        "updown": {
+          "tier": "primary",
+          "successful": 30,
+          "failed": 0,
+          "tested": 30,
+          "window": 30,
+          "successRate": 1.0
+        }
+      },
+      "displayUrl": "https://web5.topcinema.fan/movies/",
+      "routing": {
+        "schema": 1,
+        "totalWorks": 4010,
+        "generatedAt": "2026-10-18T17:23:23.217212+00:00"
+      },
+      "serverVisibilityRevision": 1377
+    },
+    {
+      "section": "series",
+      "contentType": "mixed",
+      "name": "قصة عشق - مسلسلات تركية مدبلجة",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "verified-publisher-work-route-maps",
+      "mediaType": "series",
+      "classificationMode": "auto_country",
+      "url": "https://ww4.3ick.club/genre/series-mudablij-121/",
+      "review": {
+        "worksSeen": 506,
+        "totalWorks": 506,
+        "mode": "mapped-subset-published-playback-pending",
+        "pagesChecked": 19,
+        "passed": true,
+        "checkedAt": "2026-10-21T00:43:53.814751+00:00",
+        "reviewedAt": "2026-10-21T00:43:53.814751+00:00",
+        "viewerReady": false,
+        "archiveComplete": true,
+        "verifiedWatchPage": false
+      },
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [
+        "dailymotion"
+      ],
+      "approvedServers": [],
+      "autoHiddenServers": [],
+      "serverReliability": {},
+      "displayUrl": "https://ww4.3ick.club/genre/series-mudablij-121/",
+      "serverVisibilityRevision": 4,
+      "sourceCountry": "turkey",
+      "dubbed": true
+    },
+    {
+      "section": "movies",
+      "contentType": "movies_asian",
+      "name": "قصة عشق - أفلام تركية مدبلجة ومترجمة",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "verified-publisher-work-route-maps",
+      "mediaType": "movies",
+      "classificationMode": "auto_country",
+      "url": "https://ww4.3ick.club/w-mvs/",
+      "review": {
+        "worksSeen": 423,
+        "totalWorks": 423,
+        "mode": "mapped-subset-published-playback-pending",
+        "pagesChecked": 16,
+        "passed": true,
+        "checkedAt": "2026-10-21T00:43:53.814751+00:00",
+        "reviewedAt": "2026-10-21T00:43:53.814751+00:00",
+        "viewerReady": false,
+        "archiveComplete": true,
+        "verifiedWatchPage": false
+      },
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [
+        "dailymotion"
+      ],
+      "autoHiddenServers": [],
+      "serverReliability": {
+        "سيرفر 1": {
+          "tier": "backup",
+          "successful": 4,
+          "failed": 0,
+          "tested": 4,
+          "window": 30,
+          "successRate": 1.0
+        }
+      },
+      "displayUrl": "https://ww4.3ick.club/w-mvs/",
+      "serverVisibilityRevision": 2,
+      "sourceCountry": "turkey"
+    },
+    {
+      "section": "anime",
+      "contentType": "other",
+      "name": "Dima Toon",
+      "logo": "https://www.dima-toon.com/wp-content/uploads/2025/06/Dima-toon-favicon.png",
+      "hiddenWorks": [],
+      "enabled": true,
+      "adapter": "dima-toon-publisher-episode-v1",
+      "mediaType": "anime",
+      "classificationMode": "per_work",
+      "url": "https://www.dima-toon.com/",
+      "review": {
+        "worksSeen": 190,
+        "totalWorks": 190,
+        "mode": "all-190-wordpress-ajax-archive-including-ana-wa-akhi",
+        "pagesChecked": 14,
+        "passed": true,
+        "checkedAt": "2026-10-26T20:27:24.552326+00:00",
+        "reviewedAt": "2026-10-26T19:03:08.973948+00:00",
+        "viewerReady": true,
+        "archiveComplete": true,
+        "verifiedWatchPage": true,
+        "sampleOnly": false
+      },
+      "isPrimary": false,
+      "function": "collect",
+      "hiddenServers": [
+        "dailymotion",
+        "myvidplay"
+      ],
+      "approvedServers": [
+        "dima toon mp4"
+      ],
+      "autoHiddenServers": [],
+      "serverReliability": {
+        "dima toon mp4": {
+          "tier": "primary",
+          "successful": 30,
+          "failed": 0,
+          "tested": 30,
+          "window": 30,
+          "successRate": 1
+        }
+      },
+      "displayUrl": "https://www.dima-toon.com/جميع-المسلسلات-الكرتونية/",
+      "serverVisibilityRevision": 6,
+      "audioType": "dubbed",
+      "sourceCountry": "",
+      "dubbed": true,
+      "mediaTypes": [
+        "anime"
+      ],
+      "contentTypes": [
+        "other"
+      ]
+    }
+  ],
+  "shieldPolicies": {
+    "schema": 1,
+    "rules": [
+      {
+        "host": "vibuxer.com",
+        "level": "strict"
+      },
+      {
+        "host": "vidara.to",
+        "level": "strict"
+      }
+    ]
+  },
+  "shieldRevision": "5d1310721077ed5897c1fb5a7be6a40a79f6399ebc8c872e241789b29663bcce"
+}
