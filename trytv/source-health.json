@@ -1,1 +1,1073 @@
-{"schema":1,"checkedAt":"2026-10-29T02:43:48+00:00","intervalMinutes":10,"sources":{"https://4b.cqi8zqa.shop/":{"lastHealthyAt":"2026-10-26T21:30:21+00:00","status":"unknown","checkedAt":"2026-10-29T02:43:48+00:00","name":"Anime4up","maintenanceMode":""},"https://animezid.org/category.php?cat=cartoon":{"lastHealthyAt":"2026-10-29T02:43:48+00:00","status":"online","checkedAt":"2026-10-29T02:43:48+00:00","name":"أنمي زد - مسلسلات كرتون","maintenanceMode":""},"https://animezid.org/category.php?cat=disney-arabic":{"lastHealthyAt":"2026-10-29T02:43:48+00:00","status":"online","checkedAt":"2026-10-29T02:43:48+00:00","name":"أنمي زد - أفلام ديزني بالفصحى","maintenanceMode":""},"https://animezid.org/category.php?cat=disney-masr":{"lastHealthyAt":"2026-10-29T02:43:48+00:00","status":"online","checkedAt":"2026-10-29T02:43:48+00:00","name":"أنمي زد - أفلام ديزني بالمصري","maintenanceMode":""},"https://animezid.org/category.php?cat=disney-series":{"lastHealthyAt":"2026-10-29T02:43:48+00:00","status":"online","checkedAt":"2026-10-29T02:43:48+00:00","name":"أنمي زد - مسلسلات ديزني","maintenanceMode":""},"https://animezid.org/category.php?cat=dubbed-animation":{"lastHealthyAt":"2026-10-29T02:43:48+00:00","status":"online","checkedAt":"2026-10-29T02:43:48+00:00","name":"أنمي زد - أفلام أنيميشن مدبلجة","maintenanceMode":""},"https://animezid.org/category.php?cat=dubbed-anime":{"lastHealthyAt":"2026-10-29T02:43:48+00:00","status":"online","checkedAt":"2026-10-29T02:43:48+00:00","name":"أنمي زد - المدبلج","maintenanceMode":""},"https://animezid.org/category.php?cat=spacetoon":{"lastHealthyAt":"2026-10-29T02:43:48+00:00","status":"online","checkedAt":"2026-10-29T02:43:48+00:00","name":"أنمي زد - أعمال سبيستون","maintenanceMode":""},"https://fussshaar.rest/":{"status":"unknown","checkedAt":"2026-10-29T02:43:48+00:00","maintenanceMode":"","name":"Fushaar - فشار"},"https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/":{"status":"unknown","checkedAt":"2026-10-29T02:43:48+00:00","name":"ايجي ديد - أفلام أنمي مدبلجة","maintenanceMode":""},"https://k8w4e.sbs/category/english-movies/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A%D8%A9-%D9%85%D8%AF%D8%A8%D9%84%D8%AC%D8%A9/":{"status":"unknown","checkedAt":"2026-10-29T02:43:48+00:00","name":"ايجي ديد - أفلام أجنبية مدبلجة","maintenanceMode":""},"https://k8w4e.sbs/series-category/anime-series-dubbed/":{"status":"unknown","checkedAt":"2026-10-29T02:43:48+00:00","name":"ايجي ديد - أنمي مدبلج","maintenanceMode":""},"https://k8w4e.sbs/series-category/cartoon-series-dubbed/":{"status":"unknown","checkedAt":"2026-10-29T02:43:48+00:00","name":"ايجي ديد - رسوم متحركة مدبلجة","maintenanceMode":""},"https://k8w4e.sbs/series-category/english-series-dubbed/":{"status":"unknown","checkedAt":"2026-10-29T02:43:48+00:00","name":"ايجي ديد - مسلسلات أجنبية مدبلجة","maintenanceMode":""},"https://k8w4e.sbs/series-category/latino-series-dubbed/":{"status":"unknown","checkedAt":"2026-10-29T02:43:48+00:00","name":"ايجي ديد - مسلسلات لاتينية مدبلجة","maintenanceMode":""},"https://k8w4e.sbs/series-category/turkish-series-dubbed/":{"status":"unknown","checkedAt":"2026-10-29T02:43:48+00:00","name":"ايجي ديد - مسلسلات تركية مدبلجة","maintenanceMode":""},"https://kawaiimanga.org/browse":{"lastHealthyAt":"2026-10-29T02:43:48+00:00","status":"online","checkedAt":"2026-10-29T02:43:48+00:00","name":"Kawaiimanga","maintenanceMode":""},"https://krmizi.onl/series-list/":{"status":"online","checkedAt":"2026-10-29T02:43:48+00:00","name":"قرمزي - مسلسلات تركية","lastHealthyAt":"2026-10-29T02:43:48+00:00","maintenanceMode":""},"https://larooza.study/":{"status":"unknown","checkedAt":"2026-10-29T02:43:48+00:00","name":"Larooza","maintenanceMode":""},"https://olympustaff.com/":{"lastHealthyAt":"2026-10-26T21:30:21+00:00","status":"maintenance","checkedAt":"2026-10-29T02:43:48+00:00","name":"تيم اكس","maintenanceMode":"manual"},"https://q4.shooflive.sbs/":{"status":"unknown","checkedAt":"2026-10-29T02:43:48+00:00","name":"ShoofLive - شوف لايف","maintenanceMode":""},"https://ristoanime.me/":{"lastHealthyAt":"2026-10-29T02:43:48+00:00","status":"online","checkedAt":"2026-10-29T02:43:48+00:00","name":"RistoAnime","maintenanceMode":""},"https://sa.t4an.net/moslslat.php":{"status":"maintenance","checkedAt":"2026-10-29T02:43:48+00:00","name":"توب أنمي - مسلسلات الكرتون المدبلجة والمترجمة","maintenanceMode":"automatic"},"https://sa.t4an.net/newvideos.php":{"status":"maintenance","checkedAt":"2026-10-29T02:43:48+00:00","name":"توب أنمي - أفلام الكرتون المدبلجة والمترجمة","maintenanceMode":"automatic"},"https://spacepowerfans.com/anime/":{"lastHealthyAt":"2026-10-29T02:43:48+00:00","status":"online","checkedAt":"2026-10-29T02:43:48+00:00","name":"سبيس باور فان - الأنمي المدبلج","maintenanceMode":""},"https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A/":{"lastHealthyAt":"2026-10-26T21:30:21+00:00","status":"unknown","checkedAt":"2026-10-29T02:43:48+00:00","name":"TopCinema – المسلسلات الأجنبية","maintenanceMode":""},"https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/":{"lastHealthyAt":"2026-10-26T21:30:21+00:00","status":"unknown","checkedAt":"2026-10-29T02:43:48+00:00","name":"TopCinema – المسلسلات الآسيوية","maintenanceMode":""},"https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/":{"lastHealthyAt":"2026-10-26T21:30:21+00:00","status":"unknown","checkedAt":"2026-10-29T02:43:48+00:00","name":"Topcinema","maintenanceMode":""},"https://web5.topcinema.fan/movies/":{"lastHealthyAt":"2026-10-26T21:30:21+00:00","status":"unknown","checkedAt":"2026-10-29T02:43:48+00:00","name":"TopCinema","maintenanceMode":""},"https://ww4.3ick.club/genre/series-mudablij-121/":{"lastHealthyAt":"2026-10-29T02:43:48+00:00","status":"online","checkedAt":"2026-10-29T02:43:48+00:00","name":"قصة عشق - مسلسلات تركية مدبلجة","maintenanceMode":""},"https://ww4.3ick.club/w-mvs/":{"lastHealthyAt":"2026-10-29T02:43:48+00:00","status":"online","checkedAt":"2026-10-29T02:43:48+00:00","name":"قصة عشق - أفلام تركية مدبلجة ومترجمة","maintenanceMode":""},"https://www.dima-toon.com/":{"lastHealthyAt":"2026-10-29T02:43:48+00:00","status":"online","checkedAt":"2026-10-29T02:43:48+00:00","name":"Dima Toon","maintenanceMode":""}},"manualMaintenance":{"https://olympustaff.com/":{"reason":"صيانة يدوية من مدير المصادر","setAt":"2026-10-28T23:18:33.048027+00:00","mode":"manager"}},"maintenanceSourceUrls":["https://olympustaff.com/","https://sa.t4an.net/moslslat.php","https://sa.t4an.net/newvideos.php"]}
+{
+  "schema": 1,
+  "checkedAt": "2026-11-04T13:07:29+00:00",
+  "intervalMinutes": 30,
+  "sources": {
+    "https://4b.cqi8zqa.shop/": {
+      "lastHealthyAt": "2026-10-26T21:30:21+00:00",
+      "status": "online",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "name": "Anime4up",
+      "maintenanceMode": "",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 2,
+      "extractionVerdict": "unknown",
+      "extractionEvidence": [
+        {
+          "work": "https://4b.cqi8zqa.shop/anime/ultraman-final/",
+          "status": "inconclusive",
+          "serverCount": 0
+        },
+        {
+          "work": "https://4b.cqi8zqa.shop/anime/cats%e2%99%a5eye/",
+          "status": "inconclusive",
+          "serverCount": 0
+        }
+      ],
+      "observed": "unknown",
+      "lastAvailabilityFailureAt": "2026-11-04T13:07:29+00:00",
+      "availabilityStatus": "down",
+      "availabilityReason": "connection_error;connection_error",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 100,
+      "availabilityConsecutiveSuccesses": 0
+    },
+    "https://animezid.org/category.php?cat=cartoon": {
+      "lastHealthyAt": "2026-10-29T02:43:48+00:00",
+      "status": "online",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "name": "أنمي زد - مسلسلات كرتون",
+      "maintenanceMode": "",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 3,
+      "extractionVerdict": "unknown",
+      "extractionEvidence": [
+        {
+          "work": "https://animezid.org/series/beyblade-metal-fusion-ar/",
+          "status": "no_links",
+          "serverCount": 0
+        },
+        {
+          "work": "https://animezid.org/watch.php?vid=af16f0cd6",
+          "status": "inconclusive",
+          "serverCount": 0
+        },
+        {
+          "work": "https://animezid.org/watch.php?vid=fd2735541",
+          "status": "inconclusive",
+          "serverCount": 0
+        }
+      ],
+      "observed": "unknown",
+      "consecutiveExtractionFailures": 0,
+      "lastExtractionHealthyAt": "2026-11-03T00:36:55+00:00",
+      "lastAvailabilityHealthyAt": "2026-11-04T13:07:29+00:00",
+      "availabilityStatus": "up",
+      "availabilityReason": "html_200",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 0,
+      "availabilityConsecutiveSuccesses": 100
+    },
+    "https://animezid.org/category.php?cat=disney-arabic": {
+      "lastHealthyAt": "2026-10-29T02:43:48+00:00",
+      "status": "online",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "name": "أنمي زد - أفلام ديزني بالفصحى",
+      "maintenanceMode": "",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 3,
+      "extractionVerdict": "unknown",
+      "extractionEvidence": [
+        {
+          "work": "https://animezid.org/series/beyblade-metal-fusion-ar/",
+          "status": "no_links",
+          "serverCount": 0
+        },
+        {
+          "work": "https://animezid.org/watch.php?vid=af16f0cd6",
+          "status": "inconclusive",
+          "serverCount": 0
+        },
+        {
+          "work": "https://animezid.org/watch.php?vid=fd2735541",
+          "status": "inconclusive",
+          "serverCount": 0
+        }
+      ],
+      "observed": "unknown",
+      "consecutiveExtractionFailures": 0,
+      "lastExtractionHealthyAt": "2026-11-03T00:36:55+00:00",
+      "lastAvailabilityHealthyAt": "2026-11-04T13:07:29+00:00",
+      "availabilityStatus": "up",
+      "availabilityReason": "html_200",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 0,
+      "availabilityConsecutiveSuccesses": 100
+    },
+    "https://animezid.org/category.php?cat=disney-masr": {
+      "lastHealthyAt": "2026-10-29T02:43:48+00:00",
+      "status": "online",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "name": "أنمي زد - أفلام ديزني بالمصري",
+      "maintenanceMode": "",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 3,
+      "extractionVerdict": "unknown",
+      "extractionEvidence": [
+        {
+          "work": "https://animezid.org/series/beyblade-metal-fusion-ar/",
+          "status": "no_links",
+          "serverCount": 0
+        },
+        {
+          "work": "https://animezid.org/watch.php?vid=af16f0cd6",
+          "status": "inconclusive",
+          "serverCount": 0
+        },
+        {
+          "work": "https://animezid.org/watch.php?vid=fd2735541",
+          "status": "inconclusive",
+          "serverCount": 0
+        }
+      ],
+      "observed": "unknown",
+      "consecutiveExtractionFailures": 0,
+      "lastExtractionHealthyAt": "2026-11-03T00:36:55+00:00",
+      "lastAvailabilityHealthyAt": "2026-11-04T13:07:29+00:00",
+      "availabilityStatus": "up",
+      "availabilityReason": "html_200",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 0,
+      "availabilityConsecutiveSuccesses": 100
+    },
+    "https://animezid.org/category.php?cat=disney-series": {
+      "lastHealthyAt": "2026-10-29T02:43:48+00:00",
+      "status": "online",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "name": "أنمي زد - مسلسلات ديزني",
+      "maintenanceMode": "",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 3,
+      "extractionVerdict": "unknown",
+      "extractionEvidence": [
+        {
+          "work": "https://animezid.org/series/beyblade-metal-fusion-ar/",
+          "status": "no_links",
+          "serverCount": 0
+        },
+        {
+          "work": "https://animezid.org/watch.php?vid=af16f0cd6",
+          "status": "inconclusive",
+          "serverCount": 0
+        },
+        {
+          "work": "https://animezid.org/watch.php?vid=fd2735541",
+          "status": "inconclusive",
+          "serverCount": 0
+        }
+      ],
+      "observed": "unknown",
+      "consecutiveExtractionFailures": 0,
+      "lastExtractionHealthyAt": "2026-11-03T00:36:55+00:00",
+      "lastAvailabilityHealthyAt": "2026-11-04T13:07:29+00:00",
+      "availabilityStatus": "up",
+      "availabilityReason": "html_200",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 0,
+      "availabilityConsecutiveSuccesses": 100
+    },
+    "https://animezid.org/category.php?cat=dubbed-animation": {
+      "lastHealthyAt": "2026-10-29T02:43:48+00:00",
+      "status": "online",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "name": "أنمي زد - أفلام أنيميشن مدبلجة",
+      "maintenanceMode": "",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 3,
+      "extractionVerdict": "unknown",
+      "extractionEvidence": [
+        {
+          "work": "https://animezid.org/series/beyblade-metal-fusion-ar/",
+          "status": "no_links",
+          "serverCount": 0
+        },
+        {
+          "work": "https://animezid.org/watch.php?vid=af16f0cd6",
+          "status": "inconclusive",
+          "serverCount": 0
+        },
+        {
+          "work": "https://animezid.org/watch.php?vid=fd2735541",
+          "status": "inconclusive",
+          "serverCount": 0
+        }
+      ],
+      "observed": "unknown",
+      "consecutiveExtractionFailures": 0,
+      "lastExtractionHealthyAt": "2026-11-03T00:36:55+00:00",
+      "lastAvailabilityHealthyAt": "2026-11-04T13:07:29+00:00",
+      "availabilityStatus": "up",
+      "availabilityReason": "html_200",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 0,
+      "availabilityConsecutiveSuccesses": 100
+    },
+    "https://animezid.org/category.php?cat=dubbed-anime": {
+      "lastHealthyAt": "2026-10-29T02:43:48+00:00",
+      "status": "online",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "name": "أنمي زد - المدبلج",
+      "maintenanceMode": "",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 3,
+      "extractionVerdict": "unknown",
+      "extractionEvidence": [
+        {
+          "work": "https://animezid.org/series/beyblade-metal-fusion-ar/",
+          "status": "no_links",
+          "serverCount": 0
+        },
+        {
+          "work": "https://animezid.org/watch.php?vid=af16f0cd6",
+          "status": "inconclusive",
+          "serverCount": 0
+        },
+        {
+          "work": "https://animezid.org/watch.php?vid=fd2735541",
+          "status": "inconclusive",
+          "serverCount": 0
+        }
+      ],
+      "observed": "unknown",
+      "consecutiveExtractionFailures": 0,
+      "lastExtractionHealthyAt": "2026-11-03T00:36:55+00:00",
+      "lastAvailabilityHealthyAt": "2026-11-04T13:07:29+00:00",
+      "availabilityStatus": "up",
+      "availabilityReason": "html_200",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 0,
+      "availabilityConsecutiveSuccesses": 100
+    },
+    "https://animezid.org/category.php?cat=spacetoon": {
+      "lastHealthyAt": "2026-10-29T02:43:48+00:00",
+      "status": "online",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "name": "أنمي زد - أعمال سبيستون",
+      "maintenanceMode": "",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 3,
+      "extractionVerdict": "unknown",
+      "extractionEvidence": [
+        {
+          "work": "https://animezid.org/series/beyblade-metal-fusion-ar/",
+          "status": "no_links",
+          "serverCount": 0
+        },
+        {
+          "work": "https://animezid.org/watch.php?vid=af16f0cd6",
+          "status": "inconclusive",
+          "serverCount": 0
+        },
+        {
+          "work": "https://animezid.org/watch.php?vid=fd2735541",
+          "status": "inconclusive",
+          "serverCount": 0
+        }
+      ],
+      "observed": "unknown",
+      "consecutiveExtractionFailures": 0,
+      "lastExtractionHealthyAt": "2026-11-03T00:36:55+00:00",
+      "lastAvailabilityHealthyAt": "2026-11-04T13:07:29+00:00",
+      "availabilityStatus": "up",
+      "availabilityReason": "html_200",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 0,
+      "availabilityConsecutiveSuccesses": 100
+    },
+    "https://fussshaar.rest/": {
+      "status": "online",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "maintenanceMode": "",
+      "name": "Fushaar - فشار",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 2,
+      "extractionVerdict": "unknown",
+      "extractionEvidence": [
+        {
+          "work": "https://fussshaar.rest/category.php?cat=Cycle-of-Sin",
+          "status": "inconclusive",
+          "serverCount": 0
+        },
+        {
+          "work": "https://fussshaar.rest/category.php?cat=Ezel2009",
+          "status": "inconclusive",
+          "serverCount": 0
+        }
+      ],
+      "observed": "unknown",
+      "lastAvailabilityFailureAt": "2026-11-04T13:07:29+00:00",
+      "availabilityStatus": "down",
+      "availabilityReason": "connection_error",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 100,
+      "availabilityConsecutiveSuccesses": 0
+    },
+    "https://k8w4e.sbs/category/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%86%D9%85%D9%8A/": {
+      "status": "online",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "name": "ايجي ديد - أفلام أنمي مدبلجة",
+      "maintenanceMode": "",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 2,
+      "extractionVerdict": "unknown",
+      "extractionEvidence": [
+        {
+          "work": "https://k8w4e.sbs/season/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b7%d9%85%d9%88%d8%ad-%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d9%89-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a/",
+          "status": "inconclusive",
+          "serverCount": 0
+        },
+        {
+          "work": "https://k8w4e.sbs/season/%d8%a7%d9%86%d9%85%d9%8a-%d8%b7%d8%b9%d8%a7%d9%85-%d8%a7%d9%84%d8%af%d9%87%d9%84%d9%8a%d8%b2-%d8%a7%d9%84%d9%84%d8%b0%d9%8a%d8%b0-2024-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84/",
+          "status": "inconclusive",
+          "serverCount": 0
+        }
+      ],
+      "observed": "unknown",
+      "lastAvailabilityFailureAt": "2026-11-04T13:07:29+00:00",
+      "availabilityStatus": "down",
+      "availabilityReason": "connection_error;connection_error;connection_error",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 100,
+      "availabilityConsecutiveSuccesses": 0
+    },
+    "https://k8w4e.sbs/category/english-movies/%D8%A7%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A%D8%A9-%D9%85%D8%AF%D8%A8%D9%84%D8%AC%D8%A9/": {
+      "status": "online",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "name": "ايجي ديد - أفلام أجنبية مدبلجة",
+      "maintenanceMode": "",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 2,
+      "extractionVerdict": "unknown",
+      "extractionEvidence": [
+        {
+          "work": "https://k8w4e.sbs/season/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b7%d9%85%d9%88%d8%ad-%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d9%89-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a/",
+          "status": "inconclusive",
+          "serverCount": 0
+        },
+        {
+          "work": "https://k8w4e.sbs/season/%d8%a7%d9%86%d9%85%d9%8a-%d8%b7%d8%b9%d8%a7%d9%85-%d8%a7%d9%84%d8%af%d9%87%d9%84%d9%8a%d8%b2-%d8%a7%d9%84%d9%84%d8%b0%d9%8a%d8%b0-2024-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84/",
+          "status": "inconclusive",
+          "serverCount": 0
+        }
+      ],
+      "observed": "unknown",
+      "lastAvailabilityFailureAt": "2026-11-04T13:07:29+00:00",
+      "availabilityStatus": "down",
+      "availabilityReason": "connection_error;connection_error;connection_error",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 100,
+      "availabilityConsecutiveSuccesses": 0
+    },
+    "https://k8w4e.sbs/series-category/anime-series-dubbed/": {
+      "status": "online",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "name": "ايجي ديد - أنمي مدبلج",
+      "maintenanceMode": "",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 2,
+      "extractionVerdict": "unknown",
+      "extractionEvidence": [
+        {
+          "work": "https://k8w4e.sbs/season/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b7%d9%85%d9%88%d8%ad-%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d9%89-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a/",
+          "status": "inconclusive",
+          "serverCount": 0
+        },
+        {
+          "work": "https://k8w4e.sbs/season/%d8%a7%d9%86%d9%85%d9%8a-%d8%b7%d8%b9%d8%a7%d9%85-%d8%a7%d9%84%d8%af%d9%87%d9%84%d9%8a%d8%b2-%d8%a7%d9%84%d9%84%d8%b0%d9%8a%d8%b0-2024-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84/",
+          "status": "inconclusive",
+          "serverCount": 0
+        }
+      ],
+      "observed": "unknown",
+      "lastAvailabilityFailureAt": "2026-11-04T13:07:29+00:00",
+      "availabilityStatus": "down",
+      "availabilityReason": "connection_error;connection_error;connection_error",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 100,
+      "availabilityConsecutiveSuccesses": 0
+    },
+    "https://k8w4e.sbs/series-category/cartoon-series-dubbed/": {
+      "status": "online",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "name": "ايجي ديد - رسوم متحركة مدبلجة",
+      "maintenanceMode": "",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 2,
+      "extractionVerdict": "unknown",
+      "extractionEvidence": [
+        {
+          "work": "https://k8w4e.sbs/season/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b7%d9%85%d9%88%d8%ad-%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d9%89-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a/",
+          "status": "inconclusive",
+          "serverCount": 0
+        },
+        {
+          "work": "https://k8w4e.sbs/season/%d8%a7%d9%86%d9%85%d9%8a-%d8%b7%d8%b9%d8%a7%d9%85-%d8%a7%d9%84%d8%af%d9%87%d9%84%d9%8a%d8%b2-%d8%a7%d9%84%d9%84%d8%b0%d9%8a%d8%b0-2024-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84/",
+          "status": "inconclusive",
+          "serverCount": 0
+        }
+      ],
+      "observed": "unknown",
+      "lastAvailabilityFailureAt": "2026-11-04T13:07:29+00:00",
+      "availabilityStatus": "down",
+      "availabilityReason": "connection_error;connection_error;connection_error",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 100,
+      "availabilityConsecutiveSuccesses": 0
+    },
+    "https://k8w4e.sbs/series-category/english-series-dubbed/": {
+      "status": "online",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "name": "ايجي ديد - مسلسلات أجنبية مدبلجة",
+      "maintenanceMode": "",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 2,
+      "extractionVerdict": "unknown",
+      "extractionEvidence": [
+        {
+          "work": "https://k8w4e.sbs/season/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b7%d9%85%d9%88%d8%ad-%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d9%89-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a/",
+          "status": "inconclusive",
+          "serverCount": 0
+        },
+        {
+          "work": "https://k8w4e.sbs/season/%d8%a7%d9%86%d9%85%d9%8a-%d8%b7%d8%b9%d8%a7%d9%85-%d8%a7%d9%84%d8%af%d9%87%d9%84%d9%8a%d8%b2-%d8%a7%d9%84%d9%84%d8%b0%d9%8a%d8%b0-2024-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84/",
+          "status": "inconclusive",
+          "serverCount": 0
+        }
+      ],
+      "observed": "unknown",
+      "lastAvailabilityFailureAt": "2026-11-04T13:07:29+00:00",
+      "availabilityStatus": "down",
+      "availabilityReason": "connection_error;connection_error;connection_error",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 100,
+      "availabilityConsecutiveSuccesses": 0
+    },
+    "https://k8w4e.sbs/series-category/latino-series-dubbed/": {
+      "status": "online",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "name": "ايجي ديد - مسلسلات لاتينية مدبلجة",
+      "maintenanceMode": "",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 2,
+      "extractionVerdict": "unknown",
+      "extractionEvidence": [
+        {
+          "work": "https://k8w4e.sbs/season/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b7%d9%85%d9%88%d8%ad-%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d9%89-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a/",
+          "status": "inconclusive",
+          "serverCount": 0
+        },
+        {
+          "work": "https://k8w4e.sbs/season/%d8%a7%d9%86%d9%85%d9%8a-%d8%b7%d8%b9%d8%a7%d9%85-%d8%a7%d9%84%d8%af%d9%87%d9%84%d9%8a%d8%b2-%d8%a7%d9%84%d9%84%d8%b0%d9%8a%d8%b0-2024-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84/",
+          "status": "inconclusive",
+          "serverCount": 0
+        }
+      ],
+      "observed": "unknown",
+      "lastAvailabilityFailureAt": "2026-11-04T13:07:29+00:00",
+      "availabilityStatus": "down",
+      "availabilityReason": "connection_error;connection_error;connection_error",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 100,
+      "availabilityConsecutiveSuccesses": 0
+    },
+    "https://k8w4e.sbs/series-category/turkish-series-dubbed/": {
+      "status": "online",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "name": "ايجي ديد - مسلسلات تركية مدبلجة",
+      "maintenanceMode": "",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 2,
+      "extractionVerdict": "unknown",
+      "extractionEvidence": [
+        {
+          "work": "https://k8w4e.sbs/season/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b7%d9%85%d9%88%d8%ad-%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d9%89-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a/",
+          "status": "inconclusive",
+          "serverCount": 0
+        },
+        {
+          "work": "https://k8w4e.sbs/season/%d8%a7%d9%86%d9%85%d9%8a-%d8%b7%d8%b9%d8%a7%d9%85-%d8%a7%d9%84%d8%af%d9%87%d9%84%d9%8a%d8%b2-%d8%a7%d9%84%d9%84%d8%b0%d9%8a%d8%b0-2024-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84/",
+          "status": "inconclusive",
+          "serverCount": 0
+        }
+      ],
+      "observed": "unknown",
+      "lastAvailabilityFailureAt": "2026-11-04T13:07:29+00:00",
+      "availabilityStatus": "down",
+      "availabilityReason": "connection_error;connection_error;connection_error",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 100,
+      "availabilityConsecutiveSuccesses": 0
+    },
+    "https://kawaiimanga.org/browse": {
+      "lastHealthyAt": "2026-10-29T02:43:48+00:00",
+      "status": "online",
+      "checkedAt": "2026-10-29T02:43:48+00:00",
+      "name": "Kawaiimanga",
+      "maintenanceMode": "",
+      "lastAvailabilityHealthyAt": "2026-11-04T13:07:29+00:00",
+      "availabilityStatus": "up",
+      "availabilityReason": "html_200",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 0,
+      "availabilityConsecutiveSuccesses": 100
+    },
+    "https://krmizi.onl/series-list/": {
+      "status": "online",
+      "checkedAt": "2026-11-01T03:35:57+00:00",
+      "name": "قرمزي - مسلسلات تركية",
+      "lastHealthyAt": "2026-10-29T02:43:48+00:00",
+      "maintenanceMode": "",
+      "lastExtractionCheckAt": "2026-11-01T03:35:04.868Z",
+      "extractionProbeWorks": 1,
+      "extractionVerdict": "online",
+      "extractionEvidence": [
+        {
+          "work": "https://krmizi.onl/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%87%d9%84-%d9%8a%d8%ad%d8%a8%d9%86%d9%8a-%d8%9f/",
+          "status": "links",
+          "serverCount": 3
+        }
+      ],
+      "consecutiveExtractionFailures": 0,
+      "lastExtractionHealthyAt": "2026-11-01T03:35:57+00:00",
+      "observed": "up"
+    },
+    "https://larooza.study/": {
+      "status": "online",
+      "checkedAt": "2026-11-01T18:35:44+00:00",
+      "name": "Larooza",
+      "maintenanceMode": "",
+      "lastExtractionCheckAt": "2026-11-01T18:35:03.959Z",
+      "extractionProbeWorks": 2,
+      "extractionVerdict": "unknown",
+      "extractionEvidence": [
+        {
+          "work": "https://larooza.study/video.php?vid=15f8da925",
+          "status": "inconclusive",
+          "serverCount": 0
+        },
+        {
+          "work": "https://larooza.study/video.php?vid=afe45cbfb",
+          "status": "inconclusive",
+          "serverCount": 0
+        }
+      ],
+      "observed": "unknown",
+      "lastAvailabilityHealthyAt": "2026-11-02T08:07:20+00:00",
+      "availabilityStatus": "up",
+      "availabilityReason": "real_server_panel",
+      "lastAvailabilityCheckAt": "2026-11-02T08:07:20+00:00",
+      "availabilityConsecutiveFailures": 0,
+      "availabilityConsecutiveSuccesses": 33
+    },
+    "https://olympustaff.com/": {
+      "lastHealthyAt": "2026-10-26T21:30:21+00:00",
+      "status": "online",
+      "checkedAt": "2026-11-01T17:00:33.589570+00:00",
+      "name": "تيم اكس",
+      "maintenanceMode": "",
+      "availabilityStatus": "unknown",
+      "availabilityReason": "challenge_page",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 0,
+      "availabilityConsecutiveSuccesses": 0,
+      "reason": "manual_removed"
+    },
+    "https://q4.shooflive.sbs/": {
+      "status": "online",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "name": "ShoofLive - شوف لايف",
+      "maintenanceMode": "",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 2,
+      "extractionVerdict": "unknown",
+      "extractionEvidence": [
+        {
+          "work": "https://q4.shooflive.sbs/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d9%85%d8%a7%d9%87%d9%86%d9%88%d8%b1-%d9%85%d8%af%d8%a8%d9%84%d8%ac/",
+          "status": "inconclusive",
+          "serverCount": 0
+        },
+        {
+          "work": "https://q4.shooflive.sbs/movies/%d9%81%d9%8a%d9%84%d9%85-ask-taktikleri-2-2023-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-2/",
+          "status": "inconclusive",
+          "serverCount": 0
+        }
+      ],
+      "observed": "unknown",
+      "lastAvailabilityFailureAt": "2026-11-04T13:07:29+00:00",
+      "availabilityStatus": "down",
+      "availabilityReason": "connection_error",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 100,
+      "availabilityConsecutiveSuccesses": 0
+    },
+    "https://ristoanime.me/": {
+      "lastHealthyAt": "2026-10-29T02:43:48+00:00",
+      "status": "online",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "name": "RistoAnime",
+      "maintenanceMode": "",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 1,
+      "extractionVerdict": "online",
+      "extractionEvidence": [
+        {
+          "work": "https://ristoanime.me/series/%d8%ac%d9%85%d9%8a%d8%b9-%d8%ad%d9%84%d9%82%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a-dandelion-%d9%85%d8%aa%d8%b1%d8%ac%d9%85%d8%a9-%d8%a7%d9%88%d9%86-%d9%84%d8%a7%d9%8a%d9%86/",
+          "status": "links",
+          "serverCount": 7
+        }
+      ],
+      "consecutiveExtractionFailures": 0,
+      "lastExtractionHealthyAt": "2026-11-04T06:36:01+00:00",
+      "observed": "up",
+      "lastAvailabilityHealthyAt": "2026-11-04T13:07:29+00:00",
+      "availabilityStatus": "up",
+      "availabilityReason": "html_200",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 0,
+      "availabilityConsecutiveSuccesses": 33,
+      "lastAvailabilityFailureAt": "2026-11-03T20:37:18+00:00"
+    },
+    "https://sa.t4an.net/moslslat.php": {
+      "status": "maintenance",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "name": "توب أنمي - مسلسلات الكرتون المدبلجة والمترجمة",
+      "maintenanceMode": "manual",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 2,
+      "extractionVerdict": "unknown",
+      "extractionEvidence": [
+        {
+          "work": "https://sa.t4an.net/watch.php?vid=cc880f80a",
+          "status": "inconclusive",
+          "serverCount": 0
+        },
+        {
+          "work": "https://sa.t4an.net/watch.php?vid=4E44ad58c",
+          "status": "inconclusive",
+          "serverCount": 0
+        }
+      ],
+      "observed": "unknown",
+      "availabilityStatus": "unknown",
+      "availabilityReason": "tls_error;tls_error",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 0,
+      "availabilityConsecutiveSuccesses": 0,
+      "automaticStatus": "online",
+      "automaticMaintenanceMode": "",
+      "reason": "manual",
+      "manualReason": "صيانة يدوية من مدير المصادر"
+    },
+    "https://sa.t4an.net/newvideos.php": {
+      "status": "maintenance",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "name": "توب أنمي - أفلام الكرتون المدبلجة والمترجمة",
+      "maintenanceMode": "manual",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 2,
+      "extractionVerdict": "unknown",
+      "extractionEvidence": [
+        {
+          "work": "https://sa.t4an.net/watch.php?vid=cc880f80a",
+          "status": "inconclusive",
+          "serverCount": 0
+        },
+        {
+          "work": "https://sa.t4an.net/watch.php?vid=4E44ad58c",
+          "status": "inconclusive",
+          "serverCount": 0
+        }
+      ],
+      "observed": "unknown",
+      "availabilityStatus": "unknown",
+      "availabilityReason": "tls_error;tls_error",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 0,
+      "availabilityConsecutiveSuccesses": 0,
+      "automaticStatus": "online",
+      "automaticMaintenanceMode": "",
+      "reason": "manual",
+      "manualReason": "صيانة يدوية من مدير المصادر"
+    },
+    "https://spacepowerfans.com/anime/": {
+      "lastHealthyAt": "2026-10-29T02:43:48+00:00",
+      "status": "online",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "name": "سبيس باور فان - الأنمي المدبلج",
+      "maintenanceMode": "",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 1,
+      "extractionVerdict": "online",
+      "extractionEvidence": [
+        {
+          "work": "https://spacepowerfans.com/anime/%d8%a7%d9%84%d9%85%d8%ad%d9%82%d9%82-%d9%83%d9%88%d9%86%d8%a7%d9%86-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9-%d9%85%d8%af%d8%a8%d9%84%d8%ac/",
+          "status": "links",
+          "serverCount": 1
+        }
+      ],
+      "consecutiveExtractionFailures": 0,
+      "lastExtractionHealthyAt": "2026-11-04T06:36:01+00:00",
+      "observed": "up",
+      "lastAvailabilityHealthyAt": "2026-11-04T13:07:29+00:00",
+      "availabilityStatus": "up",
+      "availabilityReason": "html_200",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 0,
+      "availabilityConsecutiveSuccesses": 100
+    },
+    "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%AC%D9%86%D8%A8%D9%8A/": {
+      "lastHealthyAt": "2026-10-26T21:30:21+00:00",
+      "status": "online",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "name": "TopCinema – المسلسلات الأجنبية",
+      "maintenanceMode": "",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 1,
+      "extractionVerdict": "online",
+      "extractionEvidence": [
+        {
+          "work": "https://web5.topcinema.fan/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-pyramid-game-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+          "status": "links",
+          "serverCount": 7
+        }
+      ],
+      "consecutiveExtractionFailures": 0,
+      "lastExtractionHealthyAt": "2026-11-04T06:36:01+00:00",
+      "observed": "up",
+      "availabilityStatus": "unknown",
+      "availabilityReason": "cross_domain_redirect;cross_domain_redirect;cross_domain_redirect",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 0,
+      "availabilityConsecutiveSuccesses": 0
+    },
+    "https://web5.topcinema.fan/category/%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A7%D8%B3%D9%8A%D9%88%D9%8A%D8%A9/": {
+      "lastHealthyAt": "2026-10-26T21:30:21+00:00",
+      "status": "online",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "name": "TopCinema – المسلسلات الآسيوية",
+      "maintenanceMode": "",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 1,
+      "extractionVerdict": "online",
+      "extractionEvidence": [
+        {
+          "work": "https://web5.topcinema.fan/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-pyramid-game-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+          "status": "links",
+          "serverCount": 7
+        }
+      ],
+      "consecutiveExtractionFailures": 0,
+      "lastExtractionHealthyAt": "2026-11-04T06:36:01+00:00",
+      "observed": "up",
+      "availabilityStatus": "unknown",
+      "availabilityReason": "cross_domain_redirect;cross_domain_redirect;cross_domain_redirect",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 0,
+      "availabilityConsecutiveSuccesses": 0
+    },
+    "https://web5.topcinema.fan/category/%d9%85%d8%b3%d9%84%d8%b3%d9%84%d8%a7%d8%aa-%d8%a7%d9%86%d9%85%d9%8a/": {
+      "lastHealthyAt": "2026-10-26T21:30:21+00:00",
+      "status": "online",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "name": "Topcinema",
+      "maintenanceMode": "",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 1,
+      "extractionVerdict": "online",
+      "extractionEvidence": [
+        {
+          "work": "https://web5.topcinema.fan/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-pyramid-game-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+          "status": "links",
+          "serverCount": 7
+        }
+      ],
+      "consecutiveExtractionFailures": 0,
+      "lastExtractionHealthyAt": "2026-11-04T06:36:01+00:00",
+      "observed": "up",
+      "availabilityStatus": "unknown",
+      "availabilityReason": "cross_domain_redirect;cross_domain_redirect;cross_domain_redirect",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 0,
+      "availabilityConsecutiveSuccesses": 0
+    },
+    "https://web5.topcinema.fan/movies/": {
+      "lastHealthyAt": "2026-10-26T21:30:21+00:00",
+      "status": "online",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "name": "TopCinema",
+      "maintenanceMode": "",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 1,
+      "extractionVerdict": "online",
+      "extractionEvidence": [
+        {
+          "work": "https://web5.topcinema.fan/series/%d9%85%d8%b3%d9%84%d8%b3%d9%84-pyramid-game-%d9%85%d8%aa%d8%b1%d8%ac%d9%85/",
+          "status": "links",
+          "serverCount": 7
+        }
+      ],
+      "consecutiveExtractionFailures": 0,
+      "lastExtractionHealthyAt": "2026-11-04T06:36:01+00:00",
+      "observed": "up",
+      "availabilityStatus": "unknown",
+      "availabilityReason": "cross_domain_redirect;cross_domain_redirect;cross_domain_redirect",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 0,
+      "availabilityConsecutiveSuccesses": 0
+    },
+    "https://ww4.3ick.club/genre/series-mudablij-121/": {
+      "lastHealthyAt": "2026-10-29T02:43:48+00:00",
+      "status": "online",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "name": "قصة عشق - مسلسلات تركية مدبلجة",
+      "maintenanceMode": "",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 2,
+      "extractionVerdict": "unknown",
+      "extractionEvidence": [
+        {
+          "work": "https://ww4.3ick.club/watch/movies/2022-yolun-acik-olsun-1oct5/",
+          "status": "inconclusive",
+          "serverCount": 0
+        },
+        {
+          "work": "https://ww4.3ick.club/watch/movies/movie-bunyamin-2016/",
+          "status": "inconclusive",
+          "serverCount": 0
+        }
+      ],
+      "observed": "unknown",
+      "lastAvailabilityHealthyAt": "2026-11-04T13:07:29+00:00",
+      "availabilityStatus": "up",
+      "availabilityReason": "html_200",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 0,
+      "availabilityConsecutiveSuccesses": 100
+    },
+    "https://ww4.3ick.club/w-mvs/": {
+      "lastHealthyAt": "2026-10-29T02:43:48+00:00",
+      "status": "online",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "name": "قصة عشق - أفلام تركية مدبلجة ومترجمة",
+      "maintenanceMode": "",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 2,
+      "extractionVerdict": "unknown",
+      "extractionEvidence": [
+        {
+          "work": "https://ww4.3ick.club/watch/movies/2022-yolun-acik-olsun-1oct5/",
+          "status": "inconclusive",
+          "serverCount": 0
+        },
+        {
+          "work": "https://ww4.3ick.club/watch/movies/movie-bunyamin-2016/",
+          "status": "inconclusive",
+          "serverCount": 0
+        }
+      ],
+      "observed": "unknown",
+      "lastAvailabilityHealthyAt": "2026-11-04T13:07:29+00:00",
+      "availabilityStatus": "up",
+      "availabilityReason": "html_200",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 0,
+      "availabilityConsecutiveSuccesses": 100
+    },
+    "https://www.dima-toon.com/": {
+      "lastHealthyAt": "2026-10-29T02:43:48+00:00",
+      "status": "online",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "name": "Dima Toon",
+      "maintenanceMode": "",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 1,
+      "extractionVerdict": "online",
+      "extractionEvidence": [
+        {
+          "work": "https://www.dima-toon.com/cartoon/%d8%a3%d9%86%d8%a7-%d9%88%d8%a3%d8%ae%d8%aa%d9%8a/",
+          "status": "links",
+          "serverCount": 1
+        }
+      ],
+      "consecutiveExtractionFailures": 0,
+      "lastExtractionHealthyAt": "2026-11-04T06:36:01+00:00",
+      "observed": "up",
+      "lastAvailabilityHealthyAt": "2026-11-04T13:07:29+00:00",
+      "availabilityStatus": "up",
+      "availabilityReason": "html_200",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 0,
+      "availabilityConsecutiveSuccesses": 100
+    },
+    "https://k8w4e.sbs/series-category/anime-series/": {
+      "name": "ايجي ديد - مسلسلات أنمي",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 2,
+      "extractionVerdict": "unknown",
+      "extractionEvidence": [
+        {
+          "work": "https://k8w4e.sbs/season/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b7%d9%85%d9%88%d8%ad-%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d9%89-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a/",
+          "status": "inconclusive",
+          "serverCount": 0
+        },
+        {
+          "work": "https://k8w4e.sbs/season/%d8%a7%d9%86%d9%85%d9%8a-%d8%b7%d8%b9%d8%a7%d9%85-%d8%a7%d9%84%d8%af%d9%87%d9%84%d9%8a%d8%b2-%d8%a7%d9%84%d9%84%d8%b0%d9%8a%d8%b0-2024-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84/",
+          "status": "inconclusive",
+          "serverCount": 0
+        }
+      ],
+      "observed": "unknown",
+      "status": "online",
+      "maintenanceMode": "",
+      "checkedAt": "2026-11-04T06:36:01+00:00"
+    },
+    "https://k8w4e.sbs/series-category/anime-movies/": {
+      "name": "ايجي ديد - أفلام أنمي",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 2,
+      "extractionVerdict": "unknown",
+      "extractionEvidence": [
+        {
+          "work": "https://k8w4e.sbs/season/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b7%d9%85%d9%88%d8%ad-%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d9%89-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a/",
+          "status": "inconclusive",
+          "serverCount": 0
+        },
+        {
+          "work": "https://k8w4e.sbs/season/%d8%a7%d9%86%d9%85%d9%8a-%d8%b7%d8%b9%d8%a7%d9%85-%d8%a7%d9%84%d8%af%d9%87%d9%84%d9%8a%d8%b2-%d8%a7%d9%84%d9%84%d8%b0%d9%8a%d8%b0-2024-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84/",
+          "status": "inconclusive",
+          "serverCount": 0
+        }
+      ],
+      "observed": "unknown",
+      "status": "online",
+      "maintenanceMode": "",
+      "checkedAt": "2026-11-04T06:36:01+00:00"
+    },
+    "https://k8w4e.sbs/series-category/chinese-anime/": {
+      "name": "ايجي ديد - أنمي صيني",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 2,
+      "extractionVerdict": "unknown",
+      "extractionEvidence": [
+        {
+          "work": "https://k8w4e.sbs/season/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b7%d9%85%d9%88%d8%ad-%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d9%89-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a/",
+          "status": "inconclusive",
+          "serverCount": 0
+        },
+        {
+          "work": "https://k8w4e.sbs/season/%d8%a7%d9%86%d9%85%d9%8a-%d8%b7%d8%b9%d8%a7%d9%85-%d8%a7%d9%84%d8%af%d9%87%d9%84%d9%8a%d8%b2-%d8%a7%d9%84%d9%84%d8%b0%d9%8a%d8%b0-2024-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84/",
+          "status": "inconclusive",
+          "serverCount": 0
+        }
+      ],
+      "observed": "unknown",
+      "status": "online",
+      "maintenanceMode": "",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "lastAvailabilityFailureAt": "2026-11-04T13:07:29+00:00",
+      "availabilityStatus": "down",
+      "availabilityReason": "connection_error;connection_error;connection_error",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 100,
+      "availabilityConsecutiveSuccesses": 0
+    },
+    "https://k8w4e.sbs/series-category/korean-anime/": {
+      "name": "ايجي ديد - أنمي كوري",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 2,
+      "extractionVerdict": "unknown",
+      "extractionEvidence": [
+        {
+          "work": "https://k8w4e.sbs/season/%d9%85%d8%b3%d9%84%d8%b3%d9%84-%d8%a7%d9%84%d8%b7%d9%85%d9%88%d8%ad-%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d9%89-%d8%a7%d9%84%d8%ac%d8%b2%d8%a1-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a/",
+          "status": "inconclusive",
+          "serverCount": 0
+        },
+        {
+          "work": "https://k8w4e.sbs/season/%d8%a7%d9%86%d9%85%d9%8a-%d8%b7%d8%b9%d8%a7%d9%85-%d8%a7%d9%84%d8%af%d9%87%d9%84%d9%8a%d8%b2-%d8%a7%d9%84%d9%84%d8%b0%d9%8a%d8%b0-2024-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%83%d8%a7%d9%85%d9%84/",
+          "status": "inconclusive",
+          "serverCount": 0
+        }
+      ],
+      "observed": "unknown",
+      "status": "online",
+      "maintenanceMode": "",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "lastAvailabilityFailureAt": "2026-11-04T13:07:29+00:00",
+      "availabilityStatus": "down",
+      "availabilityReason": "connection_error;connection_error;connection_error",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 100,
+      "availabilityConsecutiveSuccesses": 0
+    },
+    "https://laroza.garden/": {
+      "name": "Larooza",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 0,
+      "extractionVerdict": "unknown",
+      "extractionEvidence": [],
+      "observed": "unknown",
+      "status": "online",
+      "maintenanceMode": "",
+      "checkedAt": "2026-11-04T06:36:01+00:00",
+      "lastAvailabilityFailureAt": "2026-11-04T13:07:29+00:00",
+      "availabilityStatus": "down",
+      "availabilityReason": "connection_error;connection_error;connection_error;connection_error",
+      "lastAvailabilityCheckAt": "2026-11-04T13:07:29+00:00",
+      "availabilityConsecutiveFailures": 10,
+      "availabilityConsecutiveSuccesses": 0,
+      "lastAvailabilityHealthyAt": "2026-11-04T08:07:15+00:00"
+    },
+    "https://ww4.3ick.club/genre/all-series-177/": {
+      "name": "قصة عشق - مسلسلات تركية مترجمة",
+      "lastExtractionCheckAt": "2026-11-04T06:35:03.757Z",
+      "extractionProbeWorks": 2,
+      "extractionVerdict": "unknown",
+      "extractionEvidence": [
+        {
+          "work": "https://ww4.3ick.club/watch/movies/2022-yolun-acik-olsun-1oct5/",
+          "status": "inconclusive",
+          "serverCount": 0
+        },
+        {
+          "work": "https://ww4.3ick.club/watch/movies/movie-bunyamin-2016/",
+          "status": "inconclusive",
+          "serverCount": 0
+        }
+      ],
+      "observed": "unknown",
+      "status": "online",
+      "maintenanceMode": "",
+      "checkedAt": "2026-11-04T06:36:01+00:00"
+    }
+  },
+  "manualMaintenance": {
+    "https://sa.t4an.net/moslslat.php": {
+      "reason": "صيانة يدوية من مدير المصادر",
+      "setAt": "2026-11-02T10:29:05.168128+00:00",
+      "mode": "manager"
+    },
+    "https://sa.t4an.net/newvideos.php": {
+      "reason": "صيانة يدوية من مدير المصادر",
+      "setAt": "2026-11-02T10:29:05.168128+00:00",
+      "mode": "manager"
+    }
+  },
+  "maintenanceSourceUrls": [
+    "https://sa.t4an.net/moslslat.php",
+    "https://sa.t4an.net/newvideos.php"
+  ],
+  "availabilityIntervalMinutes": 30,
+  "maintenancePolicy": "manual_only",
+  "autoMaintenanceEnabled": false,
+  "maintenancePolicyUpdatedAt": "2026-11-02T09:34:57.210Z"
+}
