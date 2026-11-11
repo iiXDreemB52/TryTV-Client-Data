@@ -1,0 +1,13 @@
+{
+  "schema": 1,
+  "channel": "windows-dev",
+  "version": "1.4.141-dev",
+  "url": "https://github.com/iiXDreemB52/TryTV-Client-Data/releases/download/windows-dev-v1.4.141-dev/TryTV-1.4.141-Dev-Windows-Setup.exe",
+  "sha256": "4ff9031f5c272ec19caa91c4415af95459ed46509170ff8cf982e2af15c3f86a",
+  "sizeBytes": 161169604,
+  "publishedAt": "2026-11-11T14:19:04.620Z",
+  "signature": {
+    "algorithm": "Ed25519",
+    "value": "Na1r3vtXS/HjsVBEHu+M7jCpb0iBZOl4EO+KiC07ernyBSfHMb/ZfEbOS5CiJ4OQ4g+T8OnEh6I7NxG9wkEPBA=="
+  }
+}
